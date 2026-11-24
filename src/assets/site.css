@@ -862,7 +862,7 @@ body::before { content: ""; position: fixed; inset: 0; z-index: 0; pointer-event
 .tool-card:hover::after { opacity: 0.85; }
 
 /* Hanging ornament: a swinging charm from the top-right corner. */
-.orn { position: absolute; top: -15px; right: 18px; z-index: -1; width: 64px; height: 230px; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.orn { position: absolute; top: -15px; right: 52px; z-index: -1; width: 64px; height: 230px; cursor: pointer; -webkit-tap-highlight-color: transparent; }
 .orn-i { display: block; width: 100%; height: 100%; background: url("/assets/img/ornament.webp") 50% 0 / contain no-repeat; transform-origin: 50% 18px; will-change: transform; filter: drop-shadow(0 3px 3px rgba(40, 24, 4, 0.16)); }
 @media (min-width: 701px) { .topbar-right { margin-right: 104px; } }
 @media (max-width: 700px) { .orn { display: none; } }
@@ -912,6 +912,32 @@ body::before { content: ""; position: fixed; inset: 0; z-index: 0; pointer-event
 .scard-colors .mono { color: var(--muted); font-size: 12px; }
 .scard-actions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; padding-top: 8px; }
 @media (max-width: 640px) { .scards { grid-template-columns: 1fr; } .scard-sw span { opacity: 0.9; transform: none; font-size: 9.5px; } }
+
+/* ---------- welcome card ---------- */
+.welcome { position: fixed; inset: auto 20px 20px auto; margin: 0; z-index: 60; width: min(380px, calc(100vw - 40px)); border: 0; padding: 0; background: transparent; color: var(--text); overflow: visible; }
+.welcome[open] .welcome-box { animation: pop-in 0.3s cubic-bezier(0.2, 0.8, 0.2, 1); }
+.welcome-box { position: relative; padding: 18px 18px 14px; overflow: hidden; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--pop-shadow); }
+.welcome-box::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 6px; background: var(--toran) repeat-x; background-size: 64px 6px; }
+.welcome-bar { position: absolute; left: 0; right: 0; bottom: 0; height: 3px; transform-origin: 0 50%; background: linear-gradient(90deg, #E8A33D, #2E7D5B); animation: welcome-bar 30s linear forwards; }
+.welcome-bar.is-paused { animation-play-state: paused; }
+@keyframes welcome-bar { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+.welcome-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; margin-top: 8px; }
+.welcome-greet { display: flex; flex-direction: column; gap: 2px; min-width: 0; min-height: 62px; }
+.wg-text { font-size: 26px; font-weight: 600; letter-spacing: -0.01em; line-height: 1.25; }
+.wg-meta { font: 12px var(--font-mono); color: var(--muted); }
+.wg-swap { animation: wg-in 0.35s ease-out; }
+@keyframes wg-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.welcome h2 { font-size: 16px; margin: 12px 0 6px; letter-spacing: -0.01em; }
+.welcome p { margin: 0 0 8px; color: var(--muted); font-size: 13.5px; line-height: 1.55; }
+.welcome-foot { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+.welcome-sign { display: flex; align-items: center; gap: 6px; flex: none; margin: 0; color: var(--muted); font-size: 13px; white-space: nowrap; }
+.welcome-sign a { color: var(--text); font-weight: 600; text-decoration: none; }
+.welcome-sign a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.welcome-sign .i-heart { color: #E8A33D; width: 15px; height: 15px; }
+@media (max-width: 700px) {
+  .welcome { inset: auto 0 0 0; width: 100%; }
+  .welcome-box { border-radius: var(--r) var(--r) 0 0; border-bottom: 0; }
+}
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }

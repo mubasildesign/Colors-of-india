@@ -1,0 +1,26 @@
+{
+  "title": "Welcome to the Colors of India!",
+  "paragraphs": [
+    "India is a land of countless colors, each with its own story, culture, and character.",
+    "I created this little space to bring those colors together, celebrate their beauty, and share them with the world.",
+    "We are starting with 999 colors, and this collection will continue to grow.",
+    "Explore, get inspired, and bring a little piece of India into your next creative project."
+  ],
+  "signOff": "With",
+  "cta": "Send feedback",
+  "greetings": [
+    { "lang": "en", "text": "Welcome", "roman": "", "label": "English", "font": "" },
+    { "lang": "ta", "text": "வணக்கம்", "roman": "Vanakkam", "label": "Tamil", "font": "Noto Sans Tamil" },
+    { "lang": "hi", "text": "नमस्ते", "roman": "Namaste", "label": "Hindi", "font": "Noto Sans Devanagari" },
+    { "lang": "te", "text": "నమస్కారం", "roman": "Namaskaram", "label": "Telugu", "font": "Noto Sans Telugu" },
+    { "lang": "kn", "text": "ನಮಸ್ಕಾರ", "roman": "Namaskara", "label": "Kannada", "font": "Noto Sans Kannada" },
+    { "lang": "ml", "text": "നമസ്കാരം", "roman": "Namaskaram", "label": "Malayalam", "font": "Noto Sans Malayalam" },
+    { "lang": "bn", "text": "নমস্কার", "roman": "Nomoshkar", "label": "Bengali", "font": "Noto Sans Bengali" },
+    { "lang": "mr", "text": "नमस्कार", "roman": "Namaskar", "label": "Marathi", "font": "Noto Sans Devanagari" },
+    { "lang": "gu", "text": "કેમ છો", "roman": "Kem Chho", "label": "Gujarati", "font": "Noto Sans Gujarati" },
+    { "lang": "pa", "text": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ", "roman": "Sat Sri Akal", "label": "Punjabi", "font": "Noto Sans Gurmukhi" },
+    { "lang": "or", "text": "ନମସ୍କାର", "roman": "Namaskar", "label": "Odia", "font": "Noto Sans Oriya" },
+    { "lang": "as", "text": "নমস্কাৰ", "roman": "Nomoskar", "label": "Assamese", "font": "Noto Sans Bengali" },
+    { "lang": "sa", "text": "नमो नमः", "roman": "Namo Namah", "label": "Sanskrit", "font": "Noto Sans Devanagari" }
+  ]
+}

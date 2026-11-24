@@ -294,6 +294,110 @@ function initOrnament() {
   box.addEventListener("click", () => push(0.42));
 }
 
+// Welcome card: once per browser. Greetings change every 2 seconds, the card closes after 30 seconds,
+// and hovering or focusing inside the card pauses both timers and the countdown bar.
+const WELCOME_KEY = "itc.welcome";
+const WELCOME_MS = 30000;
+const GREET_MS = 2000;
+const loadedFonts = new Set();
+
+function loadGreetFont(family) {
+  if (!family || loadedFonts.has(family)) return;
+  loadedFonts.add(family);
+  const link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.href = `https://fonts.googleapis.com/css2?family=${family.replace(/ /g, "+")}&display=swap`;
+  document.head.appendChild(link);
+}
+
+function initWelcome() {
+  const dlg = $("[data-welcome]");
+  if (!dlg) return;
+  try {
+    if (localStorage.getItem(WELCOME_KEY)) return;
+  } catch (e) {
+    return;
+  }
+  const greetings = JSON.parse($("[data-greetings]", dlg).textContent);
+  const greet = $("[data-greet]", dlg);
+  const text = $(".wg-text", greet);
+  const meta = $(".wg-meta", greet);
+  const bar = $("[data-welcome-bar]", dlg);
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let idx = 0;
+  let left = WELCOME_MS;
+  let started = 0;
+  let running = false;
+  let closeTimer = 0;
+  let greetTimer = 0;
+
+  const showGreeting = (n) => {
+    const g = greetings[n];
+    greet.lang = g.lang;
+    text.textContent = g.text;
+    text.style.fontFamily = g.font ? `"${g.font}", system-ui, sans-serif` : "";
+    meta.textContent = g.roman ? `${g.label} · ${g.roman}` : g.label;
+    loadGreetFont(g.font);
+    if (!reduce) {
+      text.classList.remove("wg-swap");
+      void text.offsetWidth;
+      text.classList.add("wg-swap");
+    }
+  };
+  const stopTimers = () => {
+    running = false;
+    clearTimeout(closeTimer);
+    clearInterval(greetTimer);
+  };
+  // Paused while the pointer is over the card or keyboard focus is inside it.
+  const held = () => dlg.matches(":hover") || dlg.contains(document.activeElement);
+  const play = () => {
+    if (!dlg.open || running || held()) return;
+    running = true;
+    started = performance.now();
+    closeTimer = setTimeout(close, left);
+    greetTimer = setInterval(() => {
+      idx = (idx + 1) % greetings.length;
+      showGreeting(idx);
+    }, GREET_MS);
+    bar.classList.remove("is-paused");
+  };
+  const hold = () => {
+    if (!running) return;
+    left -= performance.now() - started;
+    stopTimers();
+    bar.classList.add("is-paused");
+  };
+  function close() {
+    if (dlg.open) dlg.close();
+  }
+
+  // Focus and hover events fire before the DOM updates, so re-check on the next tick.
+  const recheck = () => setTimeout(play, 0);
+  dlg.addEventListener("pointerenter", hold);
+  dlg.addEventListener("pointerleave", recheck);
+  dlg.addEventListener("focusin", hold);
+  dlg.addEventListener("focusout", recheck);
+  dlg.addEventListener("close", () => stopTimers());
+  $("[data-welcome-close]", dlg).addEventListener("click", close);
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && dlg.open) close();
+  });
+
+  setTimeout(() => {
+    showGreeting(0);
+    dlg.show();
+    // A non-modal dialog focuses its first button when shown; the card should not hold focus by default.
+    if (dlg.contains(document.activeElement)) document.activeElement.blur();
+    try {
+      localStorage.setItem(WELCOME_KEY, "1");
+    } catch (e) {
+      /* private mode: the card may show again, which is acceptable */
+    }
+    play();
+  }, 1000);
+}
+
 export function initShell() {
   initPrefs();
   initDropdowns();
@@ -303,4 +407,5 @@ export function initShell() {
   initTips();
   initOrnament();
   initMotion();
+  initWelcome();
 }

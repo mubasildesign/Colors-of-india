@@ -192,6 +192,9 @@ if (!fs.existsSync(DIST)) {
       if (!html.includes('class="site-foot"') || !html.includes(`href="${SITE.portfolio}"`)) fail(`${rel}: footer must link to the portfolio`);
       if (!html.includes(SITE.repo) || !html.includes("gh-link")) fail(`${rel}: missing GitHub link in the top bar`);
       if (!html.includes("data-vi ")) fail(`${rel}: missing value index dialog`);
+      if (!html.includes("data-welcome")) fail(`${rel}: missing welcome card`);
+      if (!html.includes(SITE.contact)) fail(`${rel}: missing feedback link`);
+      if ((html.match(/data-greetings/g) || []).length !== 1) fail(`${rel}: welcome card needs one greeting list`);
     }
     const visible = html.replace(/<script[\s\S]*?<\/script>/g, "");
     if (/undefined|NaN|\[object Object\]/.test(visible)) fail(`${rel}: contains undefined/NaN text`);

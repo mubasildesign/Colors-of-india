@@ -79,6 +79,9 @@ const lib = enrichLibrary(source);
 const byId = Object.fromEntries(lib.map((c) => [c.id, c]));
 const byName = Object.fromEntries(lib.map((c) => [c.en, c]));
 const states = readJson(path.join(DATA, "states.json"));
+const welcome = readJson(path.join(DATA, "welcome.json"));
+if (welcome.greetings.length !== 13) throw new Error(`welcome.json: expected 13 greetings, got ${welcome.greetings.length}`);
+for (const g of welcome.greetings) if (!g.lang || !g.text || !g.label) throw new Error(`welcome.json: greeting ${g.lang} is incomplete`);
 const REGIONS = ["north", "south", "east", "west", "central", "northeast", "islands"];
 for (const st of states) {
   if (!REGIONS.includes(st.region)) throw new Error(`State ${st.id}: bad region ${st.region}`);
@@ -243,6 +246,33 @@ function valueIndexDialog(loc) {
     </dialog>`;
 }
 
+// Welcome card: shown once per browser, cycles the greetings every 2 seconds and closes after 30 seconds.
+// Card text and greetings stay in English on every locale; the greeting fonts load only when the card opens.
+function welcomeDialog() {
+  const first = welcome.greetings[0];
+  const greetJson = JSON.stringify(welcome.greetings).replace(/</g, "\\u003c");
+  return `<dialog class="welcome" data-welcome aria-labelledby="welcome-title">
+      <div class="welcome-box">
+        <div class="welcome-bar" data-welcome-bar aria-hidden="true"></div>
+        <div class="welcome-head">
+          <div class="welcome-greet" data-greet aria-live="off" lang="${first.lang}">
+            <span class="wg-text">${esc(first.text)}</span>
+            <span class="wg-meta">${esc(first.label)}</span>
+          </div>
+          <button type="button" class="btn btn-ghost btn-icon" data-welcome-close aria-label="${esc(ENGLISH_CLOSE)}">${icon("x")}</button>
+        </div>
+        <h2 id="welcome-title">${esc(welcome.title)}</h2>
+        ${welcome.paragraphs.map((p) => `<p>${esc(p)}</p>`).join("\n        ")}
+        <div class="welcome-foot">
+          <p class="welcome-sign">${esc(welcome.signOff)} ${icon("heart", "i-heart", "fill")} <a href="${site.portfolio}" target="_blank" rel="noopener">${esc(site.owner)}</a></p>
+          <a class="btn btn-primary btn-sm" href="${site.contact}" target="_blank" rel="noopener">${icon("arrowUpRight")}${esc(welcome.cta)}</a>
+        </div>
+        <script type="application/json" data-greetings>${greetJson}</script>
+      </div>
+    </dialog>`;
+}
+const ENGLISH_CLOSE = strings.en["ui.close"];
+
 function page(loc, slug, { key, activeKey = key, title, description, body }) {
   const clientStrings = Object.fromEntries(Object.entries(strings[loc]).filter(([k]) => !k.startsWith("_")));
   return `<!doctype html>
@@ -263,6 +293,7 @@ ${body}
       </main>
     </div>
     ${valueIndexDialog(loc)}
+    ${welcomeDialog()}
     <script id="i18n" type="application/json">${JSON.stringify(clientStrings).replace(/</g, "\\u003c")}</script>
     <script type="module" src="/assets/app.js?v=${ASSET_V}"></script>
   </body>
