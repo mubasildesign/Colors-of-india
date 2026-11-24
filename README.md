@@ -49,7 +49,7 @@ MIT, see `LICENSE`.
 
 The color library, the names, the hex values, the state notes and the UI strings were written for this project. The names were drawn from general knowledge of Indian vocabulary (spices, flora, textiles, pigments, festivals, crafts and places). They were not copied from another color library, paint catalog or dataset. Common color words (for example Turmeric, Saffron, Indigo, Vermilion) may also appear in other catalogs; that is ordinary vocabulary, not copying.
 
-The tool set and the layout were inspired by [colors.xiaoxiaodong.ai](https://colors.xiaoxiaodong.ai) and by the public project [nevertoday/zhongguo-traditional-colors](https://github.com/nevertoday/zhongguo-traditional-colors) (GPL-3.0). Only the general idea (which tools to offer) was taken; no code, data or assets were copied from either. If you ever copy code from that project into this one, this repository must be relicensed under GPL-3.0 as well.
+The tool set and the layout were inspired by [xiaoxiaodong.ai](https://xiaoxiaodong.ai) and by the public project (GPL-3.0). Only the general idea (which tools to offer) was taken; no code, data or assets were copied from either. If you ever copy code from that project into this one, this repository must be relicensed under GPL-3.0 as well.
 
 Brand names used in the site (shadcn/ui, daisyUI, Ghostty, Alacritty, Kitty, WezTerm, Windows Terminal, Geist, Google Fonts) are referenced for export targets and credit only. Their logos are not used. The GitHub and LinkedIn icons link to the author's profiles.
 
