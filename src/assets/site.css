@@ -892,6 +892,27 @@ body::before { content: ""; position: fixed; inset: 0; z-index: 0; pointer-event
   .author-links { width: 100%; }
 }
 
+/* ---------- states of India ---------- */
+.scards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+.scard { display: flex; flex-direction: column; overflow: hidden; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow-sm); animation: rise 0.45s cubic-bezier(0.2, 0.7, 0.2, 1) backwards; animation-delay: calc(var(--i, 0) * 30ms); transition: border-color 0.15s, box-shadow 0.2s, transform 0.2s; }
+.scard:hover { transform: translateY(-3px); box-shadow: var(--pop-shadow); }
+.scard-pal { display: flex; height: 112px; border-bottom: 1px solid var(--border); }
+.scard-sw { flex: 1 1 0; min-width: 0; display: grid; align-items: end; justify-items: center; padding: 0 0 8px; border: 0; cursor: copy; transition: flex-grow 0.35s cubic-bezier(0.2, 0.7, 0.2, 1); }
+.scard-sw span { font: 11px var(--font-mono); opacity: 0; transform: translateY(4px); transition: opacity 0.2s, transform 0.2s; }
+.scard-sw:hover { flex-grow: 2.2; }
+.scard-sw:hover span, .scard-sw:focus-visible span { opacity: 0.95; transform: none; }
+.scard-body { display: flex; flex-direction: column; gap: 8px; padding: 14px 16px 14px; flex: 1; }
+.scard-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.scard-row h2 { font-size: 16px; letter-spacing: -0.01em; }
+.scard-note { color: var(--muted); font-size: 13px; text-wrap: pretty; }
+.scard-colors { list-style: none; margin: 4px 0 0; padding: 0; display: grid; gap: 1px; }
+.scard-colors li { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 3px 0; font-size: 13px; }
+.scard-colors a { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; min-width: 0; }
+.scard-colors a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.scard-colors .mono { color: var(--muted); font-size: 12px; }
+.scard-actions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; padding-top: 8px; }
+@media (max-width: 640px) { .scards { grid-template-columns: 1fr; } .scard-sw span { opacity: 0.9; transform: none; font-size: 9.5px; } }
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
 }

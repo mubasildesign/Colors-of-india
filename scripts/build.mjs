@@ -40,6 +40,7 @@ const fontUrl = (loc) =>
 const PAGES = [
   { key: "home", slug: "", group: "find", icon: "lotus" },
   { key: "colors", slug: "colors/", group: "find", icon: "swatches" },
+  { key: "states", slug: "states/", group: "find", icon: "states" },
   { key: "explorer", slug: "explorer/", group: "find", icon: "compass" },
   { key: "dictionary", slug: "dictionary/", group: "find", icon: "dictionary" },
   { key: "generator", slug: "generator/", group: "palettes", icon: "diya" },
@@ -77,6 +78,14 @@ const site = readJson(path.join(DATA, "site.json"));
 const lib = enrichLibrary(source);
 const byId = Object.fromEntries(lib.map((c) => [c.id, c]));
 const byName = Object.fromEntries(lib.map((c) => [c.en, c]));
+const states = readJson(path.join(DATA, "states.json"));
+const REGIONS = ["north", "south", "east", "west", "central", "northeast", "islands"];
+for (const st of states) {
+  if (!REGIONS.includes(st.region)) throw new Error(`State ${st.id}: bad region ${st.region}`);
+  if (st.colors.length !== 5) throw new Error(`State ${st.id}: needs exactly 5 colors`);
+  for (const l of LOCALES) if (!st.name[l]) throw new Error(`State ${st.id}: missing ${l} name`);
+  for (const n of st.colors) if (!byName[n]) throw new Error(`State ${st.id}: unknown color "${n}"`);
+}
 const accents = ACCENT_NAMES.map((n) => byName[n]).filter(Boolean);
 
 function traw(loc, key) {
@@ -207,6 +216,7 @@ function footer(loc, slug) {
                 <p class="foot-tag">${esc(t(loc, "foot.tagline"))}</p>
                 <ul class="foot-links">
                   <li><a href="/data/colors.csv" download="colors-of-india.csv">${icon("fileDown")}${esc(t(loc, "foot.charts"))}</a></li>
+                  <li><a href="${site.repo}" target="_blank" rel="noopener">${icon("github", "", "fill")}${esc(t(loc, "author.repo"))}</a></li>
                   <li><a href="/llms.txt">${icon("file")}LLMs.txt</a></li>
                   <li><a href="${site.licenseUrl}" target="_blank" rel="noopener">${icon("scales")}MIT</a></li>
                   <li class="copy">© ${site.year} <a href="${site.portfolio}" target="_blank" rel="noopener">${esc(site.portfolioLabel)}</a></li>
@@ -330,6 +340,49 @@ function homeSections(loc) {
 <section class="home-sec" id="material"><div class="sec-head"><span class="sec-tag">${icon("lotus", "", "fill")}${esc(t(loc, "home.material"))}</span><p>${esc(t(loc, "home.materialLede"))}</p></div><ul class="stats">${stats}</ul></section>
 <section class="home-sec" id="author"><div class="sec-head"><span class="sec-tag">${icon("author", "", "fill")}${esc(t(loc, "home.author"))}</span></div>
 <div class="author-card"><span class="author-mark" aria-hidden="true">${brandMark(44)}</span><div class="author-text"><b>${esc(site.owner)}</b><p>${esc(t(loc, "home.authorLede", { name: site.owner }))}</p></div><div class="author-links">${links}</div></div></section>`;
+}
+
+function statesBody(loc) {
+  const cards = states
+    .map((st, i) => {
+      const cols = st.colors.map((n) => byName[n]);
+      const name = st.name[loc];
+      const sw = cols
+        .map((c) => `<button type="button" class="scard-sw" style="background:${c.hex};color:${bestTextOn(c.hex)}" data-copy="${c.hex}" title="${esc(c.en)} ${c.hex}" aria-label="${esc(t(loc, "ui.copy"))} ${esc(c.en)} ${c.hex}"><span>${c.hex}</span></button>`)
+        .join("");
+      const legend = cols
+        .map((c) => `<li><a href="${url(loc, `colors/${c.id}/`)}"><span class="sw-dot" style="background:${c.hex}"></span>${esc(c.en)}</a><span class="mono">${c.hex}</span></li>`)
+        .join("");
+      const copyAll = `${st.name.en}\n${cols.map((c) => `${c.en} ${c.hex}`).join("\n")}`;
+      const search = `${Object.values(st.name).join(" ")} ${st.note} ${cols.map((c) => c.en).join(" ")}`.toLowerCase();
+      return `<li class="scard" data-region="${st.region}" data-search="${esc(search)}" style="--i:${Math.min(i, 12)}">
+  <div class="scard-pal">${sw}</div>
+  <div class="scard-body">
+    <div class="scard-row"><h2>${esc(name)}</h2><span class="badge">${esc(t(loc, `region.${st.region}`))}</span></div>
+    <p class="scard-note">${esc(st.note)}</p>
+    <ul class="scard-colors">${legend}</ul>
+    <div class="scard-actions">
+      <button type="button" class="btn btn-sm" data-copy="${esc(copyAll)}">${icon("copy")}${esc(t(loc, "states.copyHex"))}</button>
+      <button type="button" class="btn btn-sm" data-save-palette="${cols.map((c) => c.id).join(",")}" data-label="${esc(st.name.en)}">${icon("bookmark")}${esc(t(loc, "ui.save"))}</button>
+      <a class="btn btn-sm btn-ghost" href="${url(loc, "scene/")}?c=${cols[0].id}">${esc(t(loc, "nav.scene"))}${icon("arrowUpRight")}</a>
+    </div>
+  </div>
+</li>`;
+    })
+    .join("\n");
+  const chips = REGIONS.map((r) => `<button type="button" class="fchip" data-region="${r}" aria-pressed="false">${esc(t(loc, `region.${r}`))}</button>`).join("");
+  return `${pageHead(loc, "states")}
+<div class="toolbar">
+  <label class="field grow"><span class="sr-only">${esc(t(loc, "states.search"))}</span>${icon("search")}<input class="input" type="search" placeholder="${esc(t(loc, "states.search"))}" data-states-search></label>
+</div>
+<div class="fchips" role="group" aria-label="${esc(t(loc, "states.search"))}" style="margin-bottom:14px" data-states-regions>
+  <button type="button" class="fchip" data-region="" aria-pressed="true">${esc(t(loc, "ui.all"))}</button>${chips}
+</div>
+<p class="count" data-states-count data-template="${esc(traw(loc, "states.count"))}" aria-live="polite">${esc(t(loc, "states.count", { count: states.length, total: states.length }))}</p>
+<ul class="scards" data-states>
+${cards}
+</ul>
+<p class="empty" data-states-empty hidden>${esc(t(loc, "ui.noResults"))}</p>`;
 }
 
 function colorsBody(loc) {
@@ -488,7 +541,7 @@ for (const loc of LOCALES) {
   const siteName = t(loc, "site.name");
   for (const p of PAGES) {
     const body =
-      { home: homeBody, colors: colorsBody, dictionary: dictionaryBody, skills: skillsBody }[p.key]?.(loc) ??
+      { home: homeBody, colors: colorsBody, states: statesBody, dictionary: dictionaryBody, skills: skillsBody }[p.key]?.(loc) ??
       (CLIENT_PAGES.has(p.key) ? appBody(loc, p.key) : "");
     const title = p.key === "home" ? siteName : `${t(loc, `nav.${p.key}`)} · ${siteName}`;
     write(`${loc}/${p.slug}index.html`, page(loc, p.slug, { key: p.key, title, description: t(loc, `lede.${p.key}`), body }));

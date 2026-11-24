@@ -355,5 +355,17 @@
   "author.linkedin": "LinkedIn ప్రొఫైల్",
   "author.portfolio": "పోర్ట్‌ఫోలియో",
   "author.repo": "సోర్స్ కోడ్",
-  "ui.loading": "లోడ్ అవుతోంది…"
+  "ui.loading": "లోడ్ అవుతోంది…",
+  "nav.states": "భారత రాష్ట్రాలు",
+  "lede.states": "ప్రతి రాష్ట్రానికి దాని పండుగలు, హస్తకళలు, ప్రకృతి నుండి ఐదు రంగులు.",
+  "region.north": "ఉత్తరం",
+  "region.south": "దక్షిణం",
+  "region.east": "తూర్పు",
+  "region.west": "పడమర",
+  "region.central": "మధ్య",
+  "region.northeast": "ఈశాన్యం",
+  "region.islands": "దీవులు",
+  "states.copyHex": "ప్యాలెట్ కాపీ చేయి",
+  "states.search": "రాష్ట్రాలను వెతకండి",
+  "states.count": "{total} రాష్ట్రాలు, కేంద్రపాలిత ప్రాంతాలలో {count} చూపుతోంది"
 }

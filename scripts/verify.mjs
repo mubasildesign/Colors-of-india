@@ -12,7 +12,7 @@ import { themeTokens, terminalPalette, rolePalette, mulberry32, usagePairs, THEM
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DIST = path.join(ROOT, "dist");
 const LOCALES = ["en", "ta", "hi", "te"];
-const PAGE_SLUGS = ["", "colors/", "explorer/", "dictionary/", "generator/", "palettes/", "usage/", "gradients/", "scene/", "theme/", "terminal/", "today/", "saved/", "skills/"];
+const PAGE_SLUGS = ["", "colors/", "states/", "explorer/", "dictionary/", "generator/", "palettes/", "usage/", "gradients/", "scene/", "theme/", "terminal/", "today/", "saved/", "skills/"];
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "site.json"), "utf8"));
 const errors = [];
 const warnings = [];

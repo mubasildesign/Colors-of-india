@@ -355,5 +355,17 @@
   "author.linkedin": "LinkedIn சுயவிவரம்",
   "author.portfolio": "இணையதளம்",
   "author.repo": "மூலக் குறியீடு",
-  "ui.loading": "ஏற்றுகிறது…"
+  "ui.loading": "ஏற்றுகிறது…",
+  "nav.states": "இந்திய மாநிலங்கள்",
+  "lede.states": "ஒவ்வொரு மாநிலத்திற்கும் அதன் திருவிழாக்கள், கைவினைகள், நிலப்பரப்பிலிருந்து ஐந்து வண்ணங்கள்.",
+  "region.north": "வடக்கு",
+  "region.south": "தெற்கு",
+  "region.east": "கிழக்கு",
+  "region.west": "மேற்கு",
+  "region.central": "மத்தியப் பகுதி",
+  "region.northeast": "வடகிழக்கு",
+  "region.islands": "தீவுகள்",
+  "states.copyHex": "வண்ணத் தொகுப்பை நகலெடு",
+  "states.search": "மாநிலங்களைத் தேடு",
+  "states.count": "{total} மாநிலங்கள், ஒன்றியப் பகுதிகளில் {count} காட்டப்படுகிறது"
 }

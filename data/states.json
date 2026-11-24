@@ -1,0 +1,650 @@
+[
+  {
+    "id": "andhra-pradesh",
+    "region": "south",
+    "name": {
+      "en": "Andhra Pradesh",
+      "ta": "ஆந்திரப் பிரதேசம்",
+      "hi": "आंध्र प्रदेश",
+      "te": "ఆంధ్రప్రదేశ్"
+    },
+    "note": "Ugadi mango and neem, Kalamkari indigo, Guntur chillies and the Godavari.",
+    "colors": [
+      "Kalamkari Indigo",
+      "Chilli",
+      "Godavari",
+      "Mango Blossom",
+      "Turmeric"
+    ]
+  },
+  {
+    "id": "arunachal-pradesh",
+    "region": "northeast",
+    "name": {
+      "en": "Arunachal Pradesh",
+      "ta": "அருணாசலப் பிரதேசம்",
+      "hi": "अरुणाचल प्रदेश",
+      "te": "అరుణాచల్ ప్రదేశ్"
+    },
+    "note": "Losar prayer flags, orchids and bamboo forests below the snow peaks.",
+    "colors": [
+      "Tibetan Prayer Flag Red",
+      "Tibetan Prayer Flag Yellow",
+      "Bamboo Grove",
+      "Orchid Magenta",
+      "Glacier"
+    ]
+  },
+  {
+    "id": "assam",
+    "region": "northeast",
+    "name": {
+      "en": "Assam",
+      "ta": "அசாம்",
+      "hi": "असम",
+      "te": "అస్సాం"
+    },
+    "note": "Bihu's red gamosa, golden muga silk, Assam tea and the Brahmaputra.",
+    "colors": [
+      "Gamosa Red",
+      "Muga Silk",
+      "Assam Tea",
+      "Brahmaputra",
+      "Kaziranga Grass"
+    ]
+  },
+  {
+    "id": "bihar",
+    "region": "east",
+    "name": {
+      "en": "Bihar",
+      "ta": "பிகார்",
+      "hi": "बिहार",
+      "te": "బీహార్"
+    },
+    "note": "Chhath sunrise offerings, Madhubani painting and the ochre of Bodh Gaya.",
+    "colors": [
+      "Chhath Sun",
+      "Madhubani Yellow",
+      "Madhubani Green",
+      "Madhubani Blue",
+      "Kashaya Ochre"
+    ]
+  },
+  {
+    "id": "chhattisgarh",
+    "region": "central",
+    "name": {
+      "en": "Chhattisgarh",
+      "ta": "சத்தீஸ்கர்",
+      "hi": "छत्तीसगढ़",
+      "te": "ఛత్తీస్‌గఢ్"
+    },
+    "note": "Bastar's sal forests, Dhokra bell-metal casting, Gond art and mahua blossom.",
+    "colors": [
+      "Bastar Forest",
+      "Bell Metal",
+      "Gond Yellow",
+      "Mahua Flower",
+      "Paddy Green"
+    ]
+  },
+  {
+    "id": "goa",
+    "region": "west",
+    "name": {
+      "en": "Goa",
+      "ta": "கோவா",
+      "hi": "गोवा",
+      "te": "గోవా"
+    },
+    "note": "Carnival bougainvillea, red laterite churches, cashew orchards and white sand.",
+    "colors": [
+      "Goa Sand",
+      "Laterite",
+      "Bougainvillea Magenta",
+      "Cashew",
+      "Ocean"
+    ]
+  },
+  {
+    "id": "gujarat",
+    "region": "west",
+    "name": {
+      "en": "Gujarat",
+      "ta": "குஜராத்",
+      "hi": "गुजरात",
+      "te": "గుజరాత్"
+    },
+    "note": "Navratri garba in bandhani, Kutch mirror work and the white Rann.",
+    "colors": [
+      "Rann Salt Crust",
+      "Bandhani Red",
+      "Kachchh Embroidery Pink",
+      "Kutch Mirror",
+      "Bandhej Yellow"
+    ]
+  },
+  {
+    "id": "haryana",
+    "region": "north",
+    "name": {
+      "en": "Haryana",
+      "ta": "அரியானா",
+      "hi": "हरियाणा",
+      "te": "హర్యానా"
+    },
+    "note": "Golden wheat and mustard, bright chunri at Teej and Phulkari threads.",
+    "colors": [
+      "Wheat Field",
+      "Mustard Bloom",
+      "Chunri Red",
+      "Phulkari Green",
+      "Ghee"
+    ]
+  },
+  {
+    "id": "himachal-pradesh",
+    "region": "north",
+    "name": {
+      "en": "Himachal Pradesh",
+      "ta": "இமாசலப் பிரதேசம்",
+      "hi": "हिमाचल प्रदेश",
+      "te": "హిమాచల్ ప్రదేశ్"
+    },
+    "note": "Kullu Dussehra, deodar forests, apple orchards and the snow of Spiti.",
+    "colors": [
+      "Deodar",
+      "Rhododendron",
+      "Himalayan Peak",
+      "Spiti Valley",
+      "Cherry Red"
+    ]
+  },
+  {
+    "id": "jharkhand",
+    "region": "east",
+    "name": {
+      "en": "Jharkhand",
+      "ta": "ஜார்கண்ட்",
+      "hi": "झारखंड",
+      "te": "జార్ఖండ్"
+    },
+    "note": "Sarhul's sal blossom, palash flame, red earth and white-on-clay Sohrai wall art.",
+    "colors": [
+      "Sal Wood",
+      "Palash Flower",
+      "Red Earth",
+      "Bamboo Grove",
+      "Chalk White"
+    ]
+  },
+  {
+    "id": "karnataka",
+    "region": "south",
+    "name": {
+      "en": "Karnataka",
+      "ta": "கர்நாடகம்",
+      "hi": "कर्नाटक",
+      "te": "కర్ణాటక"
+    },
+    "note": "Mysore Dasara silks, Hampi's boulders, Coorg coffee and sandalwood.",
+    "colors": [
+      "Mysore Silk",
+      "Hampi Boulder",
+      "Coffee Plantation",
+      "Sandalwood Heart",
+      "Mysore Pak"
+    ]
+  },
+  {
+    "id": "kerala",
+    "region": "south",
+    "name": {
+      "en": "Kerala",
+      "ta": "கேரளம்",
+      "hi": "केरल",
+      "te": "కేరళ"
+    },
+    "note": "Onam's kasavu white and gold, pookalam flowers, backwaters and coconut palms.",
+    "colors": [
+      "Mundu White",
+      "Kasavu Gold",
+      "Onam Pookalam Red",
+      "Backwater Green",
+      "Coconut Palm"
+    ]
+  },
+  {
+    "id": "madhya-pradesh",
+    "region": "central",
+    "name": {
+      "en": "Madhya Pradesh",
+      "ta": "மத்தியப் பிரதேசம்",
+      "hi": "मध्य प्रदेश",
+      "te": "మధ్యప్రదేశ్"
+    },
+    "note": "Khajuraho and Sanchi stone, Chanderi and Maheshwari weaves, tiger forests.",
+    "colors": [
+      "Khajuraho Sand",
+      "Sanchi Stone",
+      "Maheshwari Teal",
+      "Chanderi Cream",
+      "Bandhavgarh"
+    ]
+  },
+  {
+    "id": "maharashtra",
+    "region": "west",
+    "name": {
+      "en": "Maharashtra",
+      "ta": "மகாராஷ்டிரம்",
+      "hi": "महाराष्ट्र",
+      "te": "మహారాష్ట్ర"
+    },
+    "note": "Ganeshotsav marigolds and durva grass, Paithani silk, Warli art on mud walls.",
+    "colors": [
+      "Marigold Orange",
+      "Durva Grass",
+      "Paithani Purple",
+      "Warli Mud Wall",
+      "Warli White"
+    ]
+  },
+  {
+    "id": "manipur",
+    "region": "northeast",
+    "name": {
+      "en": "Manipur",
+      "ta": "மணிப்பூர்",
+      "hi": "मणिपुर",
+      "te": "మణిపూర్"
+    },
+    "note": "Black Longpi pottery, Yaoshang colors, rice fields and Loktak's floating lotus.",
+    "colors": [
+      "Longpi Black",
+      "Lotus White",
+      "Paddy Green",
+      "Holi Magenta",
+      "Rain Blue"
+    ]
+  },
+  {
+    "id": "meghalaya",
+    "region": "northeast",
+    "name": {
+      "en": "Meghalaya",
+      "ta": "மேகாலயா",
+      "hi": "मेघालय",
+      "te": "మేఘాలయ"
+    },
+    "note": "Cherrapunji rain, living root bridges, moss-green hills and Wangala's festival gold.",
+    "colors": [
+      "Monsoon Green",
+      "Banyan Aerial",
+      "Rain Streak",
+      "Moss",
+      "Honeycomb"
+    ]
+  },
+  {
+    "id": "mizoram",
+    "region": "northeast",
+    "name": {
+      "en": "Mizoram",
+      "ta": "மிசோரம்",
+      "hi": "मिज़ोरम",
+      "te": "మిజోరం"
+    },
+    "note": "The red, black and white stripes of the Mizo puan, bamboo hills and rice terraces.",
+    "colors": [
+      "Lac Red",
+      "Black",
+      "White",
+      "Bamboo Grove",
+      "Paddy Green"
+    ]
+  },
+  {
+    "id": "nagaland",
+    "region": "northeast",
+    "name": {
+      "en": "Nagaland",
+      "ta": "நாகாலாந்து",
+      "hi": "नागालैंड",
+      "te": "నాగాలాండ్"
+    },
+    "note": "Hornbill Festival, red Naga shawls, bamboo and cane crafts.",
+    "colors": [
+      "Naga Shawl Red",
+      "Black",
+      "Hornbill",
+      "Bamboo Grove",
+      "Cane"
+    ]
+  },
+  {
+    "id": "odisha",
+    "region": "east",
+    "name": {
+      "en": "Odisha",
+      "ta": "ஒடிசா",
+      "hi": "ओडिशा",
+      "te": "ఒడిశా"
+    },
+    "note": "Rath Yatra chariots, Sambalpuri ikat, Konark's stone wheel and Chilika lagoon.",
+    "colors": [
+      "Sambalpuri Red",
+      "Sambalpuri Black",
+      "Sandstone",
+      "Chilika Lagoon",
+      "Haldi Powder"
+    ]
+  },
+  {
+    "id": "punjab",
+    "region": "north",
+    "name": {
+      "en": "Punjab",
+      "ta": "பஞ்சாப்",
+      "hi": "पंजाब",
+      "te": "పంజాబ్"
+    },
+    "note": "Baisakhi wheat, Phulkari embroidery, mustard fields and Khalsa saffron and blue.",
+    "colors": [
+      "Baisakhi Wheat",
+      "Phulkari Magenta",
+      "Mustard Bloom",
+      "Sikh Kesri",
+      "Khalsa Blue"
+    ]
+  },
+  {
+    "id": "rajasthan",
+    "region": "west",
+    "name": {
+      "en": "Rajasthan",
+      "ta": "ராஜஸ்தான்",
+      "hi": "राजस्थान",
+      "te": "రాజస్థాన్"
+    },
+    "note": "Pink Jaipur, golden Jaisalmer, blue Bundi and bandhej over Thar sunsets.",
+    "colors": [
+      "Jaipur Pink",
+      "Jaisalmer Gold",
+      "Bundi Blue",
+      "Bandhej Orange",
+      "Thar Dusk"
+    ]
+  },
+  {
+    "id": "sikkim",
+    "region": "northeast",
+    "name": {
+      "en": "Sikkim",
+      "ta": "சிக்கிம்",
+      "hi": "सिक्किम",
+      "te": "సిక్కిం"
+    },
+    "note": "Monastery prayer flags, Kanchenjunga snow, rhododendron and black cardamom.",
+    "colors": [
+      "Sikkim Prayer Flag",
+      "Himalayan Peak",
+      "Tibetan Prayer Flag Blue",
+      "Rhododendron",
+      "Black Cardamom"
+    ]
+  },
+  {
+    "id": "tamil-nadu",
+    "region": "south",
+    "name": {
+      "en": "Tamil Nadu",
+      "ta": "தமிழ்நாடு",
+      "hi": "तमिलनाडु",
+      "te": "తమిళనాడు"
+    },
+    "note": "Pongal pots and sugarcane, Kanjivaram silk, Tanjore gold and temple bronze.",
+    "colors": [
+      "Pongal Pot",
+      "Kanjivaram Magenta",
+      "Tanjore Gold",
+      "Temple Bronze",
+      "Sugarcane Leaf"
+    ]
+  },
+  {
+    "id": "telangana",
+    "region": "south",
+    "name": {
+      "en": "Telangana",
+      "ta": "தெலங்கானா",
+      "hi": "तेलंगाना",
+      "te": "తెలంగాణ"
+    },
+    "note": "Bathukamma flower stacks, Pochampally ikat, Gadwal sarees and Hyderabad pearls.",
+    "colors": [
+      "Pochampally",
+      "Gadwal",
+      "Genda Gold",
+      "Gulab Pink",
+      "Moti"
+    ]
+  },
+  {
+    "id": "tripura",
+    "region": "northeast",
+    "name": {
+      "en": "Tripura",
+      "ta": "திரிபுரா",
+      "hi": "त्रिपुरा",
+      "te": "త్రిపుర"
+    },
+    "note": "Kharchi Puja hibiscus, bamboo and cane crafts, jackfruit and teak forests.",
+    "colors": [
+      "Bamboo Grove",
+      "Cane",
+      "Jackfruit",
+      "Teak Bark",
+      "Hibiscus Red"
+    ]
+  },
+  {
+    "id": "uttar-pradesh",
+    "region": "north",
+    "name": {
+      "en": "Uttar Pradesh",
+      "ta": "உத்தரப் பிரதேசம்",
+      "hi": "उत्तर प्रदेश",
+      "te": "ఉత్తరప్రదేశ్"
+    },
+    "note": "Brij Holi, Ganga Aarti nights in Varanasi, Banarasi gold brocade and Taj marble.",
+    "colors": [
+      "Holi Splash",
+      "Banarasi Gold",
+      "Ganga Aarti Night",
+      "Marble White",
+      "Radha Pink"
+    ]
+  },
+  {
+    "id": "uttarakhand",
+    "region": "north",
+    "name": {
+      "en": "Uttarakhand",
+      "ta": "உத்தராகண்ட்",
+      "hi": "उत्तराखंड",
+      "te": "ఉత్తరాఖండ్"
+    },
+    "note": "Brahma Kamal and the Valley of Flowers, Ganga at Haridwar, red-on-white Aipan floors.",
+    "colors": [
+      "Brahma Kamal",
+      "Valley of Flowers",
+      "Himalayan Peak",
+      "Ganga Water",
+      "Rangoli Powder Red"
+    ]
+  },
+  {
+    "id": "west-bengal",
+    "region": "east",
+    "name": {
+      "en": "West Bengal",
+      "ta": "மேற்கு வங்காளம்",
+      "hi": "पश्चिम बंगाल",
+      "te": "పశ్చిమ బెంగాల్"
+    },
+    "note": "Durga Puja reds, Kantha and Baluchari weaves, Darjeeling tea and the Sundarbans.",
+    "colors": [
+      "Durga Red",
+      "Kantha Cream",
+      "Baluchari Maroon",
+      "Darjeeling Tea",
+      "Sundarbans"
+    ]
+  },
+  {
+    "id": "andaman-nicobar",
+    "region": "islands",
+    "name": {
+      "en": "Andaman and Nicobar Islands",
+      "ta": "அந்தமான் நிக்கோபார் தீவுகள்",
+      "hi": "अंडमान और निकोबार द्वीप समूह",
+      "te": "అండమాన్ నికోబార్ దీవులు"
+    },
+    "note": "Turquoise Andaman water, coral reefs, mangrove coasts and island sunrise.",
+    "colors": [
+      "Andaman Sea",
+      "Coral",
+      "Mangrove",
+      "Pearl Oyster",
+      "Sunrise Gold"
+    ]
+  },
+  {
+    "id": "chandigarh",
+    "region": "north",
+    "name": {
+      "en": "Chandigarh",
+      "ta": "சண்டிகர்",
+      "hi": "चंडीगढ़",
+      "te": "చండీగఢ్"
+    },
+    "note": "Le Corbusier's concrete, Rock Garden mosaics, rose gardens and Sukhna lake.",
+    "colors": [
+      "Stone",
+      "Mosaic Tile",
+      "Gulab Rose",
+      "Alpine Lake",
+      "Neem Leaf"
+    ]
+  },
+  {
+    "id": "dadra-nagar-haveli-daman-diu",
+    "region": "west",
+    "name": {
+      "en": "Dadra and Nagar Haveli and Daman and Diu",
+      "ta": "தாத்ரா நாகர் ஹவேலி, டாமன் டையூ",
+      "hi": "दादरा और नगर हवेली और दमन और दीव",
+      "te": "దాద్రా నాగర్ హవేలీ, డామన్ డయ్యూ"
+    },
+    "note": "Warli white on mud walls, Portuguese fort stone, red tiled roofs and the Arabian Sea.",
+    "colors": [
+      "Warli Mud Wall",
+      "Warli White",
+      "Yellow Sandstone",
+      "Mangalore Tile",
+      "Ocean"
+    ]
+  },
+  {
+    "id": "delhi",
+    "region": "north",
+    "name": {
+      "en": "Delhi",
+      "ta": "தில்லி",
+      "hi": "दिल्ली",
+      "te": "ఢిల్లీ"
+    },
+    "note": "Red Fort sandstone, white marble tombs, Mughal gardens and Diwali nights.",
+    "colors": [
+      "Red Sandstone",
+      "Marble White",
+      "Diwali Night",
+      "Sparkler",
+      "Mughal Green"
+    ]
+  },
+  {
+    "id": "jammu-kashmir",
+    "region": "north",
+    "name": {
+      "en": "Jammu and Kashmir",
+      "ta": "ஜம்மு காஷ்மீர்",
+      "hi": "जम्मू और कश्मीर",
+      "te": "జమ్మూ కాశ్మీర్"
+    },
+    "note": "Saffron crocus, autumn chinar, Dal Lake, pashmina and kahwa.",
+    "colors": [
+      "Saffron Crocus",
+      "Chinar Autumn",
+      "Dal Lake",
+      "Pashmina Cream",
+      "Kahwa"
+    ]
+  },
+  {
+    "id": "ladakh",
+    "region": "north",
+    "name": {
+      "en": "Ladakh",
+      "ta": "லடாக்",
+      "hi": "लद्दाख",
+      "te": "లడఖ్"
+    },
+    "note": "Hemis festival, Pangong blue, Zanskar ice and the saffron and red of monasteries.",
+    "colors": [
+      "Pangong Blue",
+      "Zanskar Ice",
+      "Buddha Saffron",
+      "Tibetan Prayer Flag Red",
+      "Thangka Gold"
+    ]
+  },
+  {
+    "id": "lakshadweep",
+    "region": "islands",
+    "name": {
+      "en": "Lakshadweep",
+      "ta": "லட்சத்தீவு",
+      "hi": "लक्षद्वीप",
+      "te": "లక్షద్వీప్"
+    },
+    "note": "Lagoon turquoise, pink coral, shell white and coconut palms.",
+    "colors": [
+      "Lakshadweep Lagoon",
+      "Coral Pink",
+      "Conch Shell",
+      "Coconut Palm",
+      "Pink Sand"
+    ]
+  },
+  {
+    "id": "puducherry",
+    "region": "south",
+    "name": {
+      "en": "Puducherry",
+      "ta": "புதுச்சேரி",
+      "hi": "पुदुचेरी",
+      "te": "పుదుచ్చేరి"
+    },
+    "note": "The French Quarter's mustard walls, bougainvillea, whitewash and the Bay of Bengal promenade.",
+    "colors": [
+      "Mustard Seed",
+      "Chalk White",
+      "Bougainvillea",
+      "Lime Wash Blue",
+      "Rameswaram Shore"
+    ]
+  }
+]

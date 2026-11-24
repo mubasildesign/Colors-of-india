@@ -355,5 +355,17 @@
   "author.linkedin": "LinkedIn प्रोफ़ाइल",
   "author.portfolio": "पोर्टफ़ोलियो",
   "author.repo": "स्रोत कोड",
-  "ui.loading": "लोड हो रहा है…"
+  "ui.loading": "लोड हो रहा है…",
+  "nav.states": "भारत के राज्य",
+  "lede.states": "हर राज्य के पाँच रंग, उसके त्योहारों, शिल्पों और भूदृश्यों से।",
+  "region.north": "उत्तर",
+  "region.south": "दक्षिण",
+  "region.east": "पूर्व",
+  "region.west": "पश्चिम",
+  "region.central": "मध्य",
+  "region.northeast": "पूर्वोत्तर",
+  "region.islands": "द्वीप",
+  "states.copyHex": "पैलेट कॉपी करें",
+  "states.search": "राज्य खोजें",
+  "states.count": "{total} राज्यों और केंद्र शासित प्रदेशों में से {count} दिखाए जा रहे हैं"
 }

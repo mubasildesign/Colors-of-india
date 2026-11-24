@@ -24,7 +24,7 @@ const MAP = {
   rangoli: "flower", textile: "t-shirt", dawn: "sun-horizon", scene: "monitor-play",
   brush: "paint-brush-broad", robot: "robot",
   // Links and index.
-  github: "github-logo", linkedin: "linkedin-logo", valueIndex: "list-numbers", portfolio: "globe-hemisphere-east", author: "pen-nib",
+  github: "github-logo", linkedin: "linkedin-logo", valueIndex: "list-numbers", portfolio: "globe-hemisphere-east", author: "pen-nib", states: "map-trifold",
   book: "book-open", translate: "translate", fileDown: "file-arrow-down", file: "file-text", scales: "scales", flag: "flag",
 };
 

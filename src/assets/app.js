@@ -8,6 +8,7 @@ initGlobalActions();
 const PAGE_MODULES = {
   home: "./js/pages/home.js",
   dictionary: "./js/pages/dictionary.js",
+  states: "./js/pages/states.js",
   explorer: "./js/pages/explorer.js",
   generator: "./js/pages/generator.js",
   ideas: "./js/pages/ideas.js",

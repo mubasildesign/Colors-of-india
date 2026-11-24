@@ -355,5 +355,17 @@
   "author.linkedin": "LinkedIn profile",
   "author.portfolio": "Portfolio",
   "author.repo": "Source code",
-  "ui.loading": "Loading…"
+  "ui.loading": "Loading…",
+  "nav.states": "States of India",
+  "lede.states": "Five colors for each state, drawn from its festivals, crafts and landscapes.",
+  "region.north": "North",
+  "region.south": "South",
+  "region.east": "East",
+  "region.west": "West",
+  "region.central": "Central",
+  "region.northeast": "Northeast",
+  "region.islands": "Islands",
+  "states.copyHex": "Copy palette",
+  "states.search": "Search states",
+  "states.count": "Showing {count} of {total} states and territories"
 }
