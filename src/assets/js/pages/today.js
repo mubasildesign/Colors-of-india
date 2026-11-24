@@ -12,7 +12,9 @@ const PRESETS = {
 };
 const NEXT = [["generator", "nav.generator"], ["scene", "nav.scene"], ["theme", "nav.theme"], ["terminal", "nav.terminal"], ["palettes", "nav.ideas"], ["usage", "nav.usage"], ["gradients", "nav.gradients"]];
 
-const isoDay = (d) => d.toISOString().slice(0, 10);
+// "Today" is the visitor's local calendar day. One color is revealed per day: past days are open, future days stay hidden.
+const pad2 = (n) => String(n).padStart(2, "0");
+const localIso = (d = new Date()) => `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`;
 function colorForDate(lib, iso) {
   const days = Math.floor(Date.parse(`${iso}T00:00:00Z`) / 86400000);
   return lib[(((days * 7919) % lib.length) + lib.length) % lib.length];
@@ -155,7 +157,10 @@ function copyBody(c, S, lib) {
 export default async function initToday(root) {
   const lib = await library();
   const params = new URLSearchParams(location.search);
-  let date = /^\d{4}-\d{2}-\d{2}$/.test(params.get("d") || "") ? params.get("d") : isoDay(new Date());
+  const todayIso = localIso();
+  const asked = /^\d{4}-\d{2}-\d{2}$/.test(params.get("d") || "") ? params.get("d") : todayIso;
+  let date = asked > todayIso ? todayIso : asked; // ISO dates compare correctly as strings
+  if (asked > todayIso) setParam("d", todayIso);
   let color = byId(params.get("c")) || colorForDate(lib, date);
   const S = { size: "square", bg: "light", cmyk: true, partners: true, dodont: true, local: false, tone: "practical", preset: "" };
 
@@ -179,7 +184,9 @@ export default async function initToday(root) {
       <section class="side-sec"><h3>${esc(t("today.color"))}</h3>
         <div class="card">
           <div class="opt-block"><label class="opt-label" for="today-date">${esc(t("today.date"))}</label>
-            <input id="today-date" class="input" type="date" value="${date}" data-date style="width:100%"></div>
+            <input id="today-date" class="input" type="date" value="${date}" max="${todayIso}" data-date style="width:100%">
+            <p class="hint" style="margin-top:6px">${esc(t("today.dateHint"))}</p>
+            <p class="hint hint-lock" role="status" data-date-note hidden>${icon("lock")}<span>${esc(t("today.futureLocked"))}</span></p></div>
           <div class="opt-block"><label class="opt-label" for="today-pick">${esc(t("today.pick"))}</label>
             <select id="today-pick" class="select" data-pick style="width:100%">${lib.map((c) => `<option value="${c.id}">No. ${c.id} · ${esc(c.en)} · ${c.hex}</option>`).join("")}</select></div>
           <div class="opt-block row-between"><span class="opt-label">${esc(t("today.change"))}</span>
@@ -289,6 +296,11 @@ export default async function initToday(root) {
     }
     if (e.target.matches("[data-pick]")) setColor(byId(e.target.value));
     if (e.target.matches("[data-date]") && e.target.value) {
+      const nowIso = localIso();
+      const locked = e.target.value > nowIso;
+      e.target.max = nowIso;
+      if (locked) e.target.value = nowIso;
+      $("[data-date-note]", root).hidden = !locked;
       date = e.target.value;
       color = colorForDate(lib, date);
       setParam("d", date);

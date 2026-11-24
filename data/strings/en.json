@@ -31,7 +31,7 @@
   "lede.scene": "One color across web, slide, cover, poster, brand and social.",
   "lede.theme": "UI tokens for shadcn/ui and daisyUI.",
   "lede.terminal": "16-color themes for your terminal.",
-  "lede.today": "A share card for any date.",
+  "lede.today": "A share card for today or any past day.",
   "lede.saved": "Stored in this browser.",
   "lede.skills": "Use the library from an AI agent.",
   "ui.search": "Search",
@@ -339,7 +339,7 @@
   "vi.copiedAll": "Copied {count} colors",
   "foot.tagline": "{count} named traditional Indian colors, and the tools for using them. Open source; please proofread before printing.",
   "foot.charts": "Download all color charts",
-  "foot.inspired": "Design inspired by {site}",
+  "foot.inspired": "inspired from {site}",
   "foot.made": "Made with ❤️ and turmeric 😊 by {name}",
   "home.tools": "Tools",
   "home.toolsLede": "Six ways to put the colors to work.",
@@ -367,5 +367,8 @@
   "region.islands": "Islands",
   "states.copyHex": "Copy palette",
   "states.search": "Search states",
-  "states.count": "Showing {count} of {total} states and territories"
+  "states.count": "Showing {count} of {total} states and territories",
+  "foot.contact": "Contact",
+  "today.dateHint": "One color is revealed each day. Past days are open; future days stay hidden.",
+  "today.futureLocked": "Tomorrow's color is revealed tomorrow. Showing today's color."
 }

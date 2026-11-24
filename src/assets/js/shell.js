@@ -299,16 +299,30 @@ function initOrnament() {
 const WELCOME_KEY = "itc.welcome";
 const WELCOME_MS = 30000;
 const GREET_MS = 2000;
-const loadedFonts = new Set();
+const FONT_WAIT_MS = 3000;
+const fontLinks = new Map();
 
-function loadGreetFont(family) {
-  if (!family || loadedFonts.has(family)) return;
-  loadedFonts.add(family);
-  const link = document.createElement("link");
-  link.rel = "stylesheet";
-  link.href = `https://fonts.googleapis.com/css2?family=${family.replace(/ /g, "+")}&display=swap`;
-  document.head.appendChild(link);
+// Loads the stylesheet for a family once, then resolves when it has finished (or failed).
+function linkGreetFont(family) {
+  if (!fontLinks.has(family)) {
+    fontLinks.set(
+      family,
+      new Promise((resolve) => {
+        const link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.href = `https://fonts.googleapis.com/css2?family=${family.replace(/ /g, "+")}:wght@600&display=swap`;
+        link.onload = resolve;
+        link.onerror = resolve;
+        document.head.appendChild(link);
+      })
+    );
+  }
+  return fontLinks.get(family);
 }
+
+// Resolves once the glyphs for one greeting are ready to paint, so it never flashes in a fallback font.
+const preloadGreeting = (g) =>
+  g.font ? linkGreetFont(g.font).then(() => document.fonts.load(`600 26px "${g.font}"`, g.text)).catch(() => {}) : Promise.resolve();
 
 function initWelcome() {
   const dlg = $("[data-welcome]");
@@ -324,6 +338,7 @@ function initWelcome() {
   const meta = $(".wg-meta", greet);
   const bar = $("[data-welcome-bar]", dlg);
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const ready = greetings.map((g) => !g.font);
   let idx = 0;
   let left = WELCOME_MS;
   let started = 0;
@@ -337,7 +352,6 @@ function initWelcome() {
     text.textContent = g.text;
     text.style.fontFamily = g.font ? `"${g.font}", system-ui, sans-serif` : "";
     meta.textContent = g.roman ? `${g.label} · ${g.roman}` : g.label;
-    loadGreetFont(g.font);
     if (!reduce) {
       text.classList.remove("wg-swap");
       void text.offsetWidth;
@@ -357,8 +371,14 @@ function initWelcome() {
     started = performance.now();
     closeTimer = setTimeout(close, left);
     greetTimer = setInterval(() => {
-      idx = (idx + 1) % greetings.length;
-      showGreeting(idx);
+      // Move to the next greeting whose font has loaded; stay put if none is ready yet.
+      for (let step = 1; step <= greetings.length; step++) {
+        const next = (idx + step) % greetings.length;
+        if (!ready[next]) continue;
+        idx = next;
+        showGreeting(idx);
+        break;
+      }
     }, GREET_MS);
     bar.classList.remove("is-paused");
   };
@@ -384,7 +404,10 @@ function initWelcome() {
     if (e.key === "Escape" && dlg.open) close();
   });
 
-  setTimeout(() => {
+  // Start loading every greeting font now; open the card after 1s, or once the fonts are ready (3s at most).
+  const loads = greetings.map((g, n) => preloadGreeting(g).then(() => { ready[n] = true; }));
+  const fontsReady = Promise.race([Promise.all(loads), new Promise((r) => setTimeout(r, FONT_WAIT_MS))]);
+  Promise.all([new Promise((r) => setTimeout(r, 1000)), fontsReady]).then(() => {
     showGreeting(0);
     dlg.show();
     // A non-modal dialog focuses its first button when shown; the card should not hold focus by default.
@@ -395,7 +418,7 @@ function initWelcome() {
       /* private mode: the card may show again, which is acceptable */
     }
     play();
-  }, 1000);
+  });
 }
 
 export function initShell() {

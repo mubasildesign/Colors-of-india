@@ -220,6 +220,7 @@ function footer(loc, slug) {
                 <ul class="foot-links">
                   <li><a href="/data/colors.csv" download="colors-of-india.csv">${icon("fileDown")}${esc(t(loc, "foot.charts"))}</a></li>
                   <li><a href="${site.repo}" target="_blank" rel="noopener">${icon("github", "", "fill")}${esc(t(loc, "author.repo"))}</a></li>
+                  <li><a href="${site.contact}" target="_blank" rel="noopener">${icon("contact")}${esc(t(loc, "foot.contact"))}</a></li>
                   <li><a href="/llms.txt">${icon("file")}LLMs.txt</a></li>
                   <li><a href="${site.licenseUrl}" target="_blank" rel="noopener">${icon("scales")}MIT</a></li>
                   <li class="copy">© ${site.year} <a href="${site.portfolio}" target="_blank" rel="noopener">${esc(site.portfolioLabel)}</a></li>
@@ -227,7 +228,7 @@ function footer(loc, slug) {
               </div>
               <nav class="foot-langs" aria-label="${esc(t(loc, "ui.language"))}">${icon("globe")}${langs}</nav>
             </div>
-            <p class="foot-credit">${esc(t(loc, "foot.inspired", { site: "\u0001" })).replace("\u0001", ext(site.inspiredBy.url, site.inspiredBy.label))} · ${esc(t(loc, "foot.made", { name: "\u0001" })).replace("\u0001", ext(site.portfolio, site.owner))}</p>
+            <p class="foot-credit">${esc(t(loc, "foot.made", { name: "\u0001" })).replace("\u0001", ext(site.portfolio, site.owner))} - ${esc(t(loc, "foot.inspired", { site: "\u0001" })).replace("\u0001", ext(site.inspiredBy.url, site.inspiredBy.label))}</p>
           </footer>`;
 }
 
@@ -265,7 +266,6 @@ function welcomeDialog() {
         ${welcome.paragraphs.map((p) => `<p>${esc(p)}</p>`).join("\n        ")}
         <div class="welcome-foot">
           <p class="welcome-sign">${esc(welcome.signOff)} ${icon("heart", "i-heart", "fill")} <a href="${site.portfolio}" target="_blank" rel="noopener">${esc(site.owner)}</a></p>
-          <a class="btn btn-primary btn-sm" href="${site.contact}" target="_blank" rel="noopener">${icon("arrowUpRight")}${esc(welcome.cta)}</a>
         </div>
         <script type="application/json" data-greetings>${greetJson}</script>
       </div>
