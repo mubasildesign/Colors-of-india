@@ -1,0 +1,7129 @@
+[
+  {
+    "en": "Turmeric",
+    "tr": "haldi",
+    "ta": "மஞ்சள்",
+    "taRoman": "manjal",
+    "hex": "#E7A81E",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Saffron Gold",
+    "tr": "kesar",
+    "ta": "குங்குமப்பூ",
+    "taRoman": "kungumapoo",
+    "hex": "#F4C430",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Mustard Seed",
+    "tr": "sarson",
+    "hex": "#D9A62B",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Lemon",
+    "tr": "nimbu",
+    "hex": "#F5E050",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Marigold",
+    "tr": "genda",
+    "ta": "சாமந்தி",
+    "taRoman": "saamanthi",
+    "hex": "#E9A220",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Mango",
+    "tr": "aam",
+    "ta": "மாம்பழம்",
+    "taRoman": "maambazham",
+    "hex": "#F8C441",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Banana",
+    "tr": "kela",
+    "ta": "வாழைப்பழம்",
+    "taRoman": "vaazhaipazham",
+    "hex": "#F3E04B",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Jackfruit",
+    "tr": "kathal",
+    "ta": "பலா",
+    "taRoman": "pala",
+    "hex": "#D7B02D",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Gold Leaf",
+    "tr": "sone ka varq",
+    "ta": "பொன்",
+    "taRoman": "pon",
+    "hex": "#D4AF37",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Brass",
+    "tr": "peetal",
+    "ta": "பித்தளை",
+    "taRoman": "pithalai",
+    "hex": "#B5A642",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Yellow Ochre",
+    "tr": "peeli mitti",
+    "hex": "#C9A227",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Sandal Paste",
+    "tr": "chandan lep",
+    "ta": "சந்தனம்",
+    "taRoman": "santhanam",
+    "hex": "#E3C88F",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Pollen",
+    "tr": "paraag",
+    "hex": "#E8C547",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Sunflower",
+    "tr": "surajmukhi",
+    "ta": "சூரியகாந்தி",
+    "taRoman": "sooriyakaanthi",
+    "hex": "#F7C81C",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Champa",
+    "tr": "champa",
+    "hex": "#F3C969",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Diya Flame",
+    "tr": "deepak",
+    "ta": "விளக்கு",
+    "taRoman": "vilakku",
+    "hex": "#FFB347",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Topaz",
+    "tr": "pukhraj",
+    "hex": "#FFC87C",
+    "family": "yellow",
+    "cat": "gem"
+  },
+  {
+    "en": "Phulkari",
+    "tr": "phulkari",
+    "hex": "#F0A830",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Jasmine Pale",
+    "tr": "chameli",
+    "hex": "#F6EBA0",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Lotus Yellow",
+    "tr": "kamal peela",
+    "hex": "#F6D25A",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Sunshine",
+    "tr": "dhoop",
+    "hex": "#FCE37A",
+    "family": "yellow",
+    "cat": "nature"
+  },
+  {
+    "en": "Haldi Dust",
+    "tr": "haldi chura",
+    "hex": "#E5B644",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Pale Gold",
+    "tr": "sunehri",
+    "hex": "#E9D17E",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Amber",
+    "tr": "ambar",
+    "hex": "#C58E2E",
+    "family": "yellow",
+    "cat": "gem"
+  },
+  {
+    "en": "Zari Thread",
+    "tr": "zari",
+    "ta": "ஜரிகை",
+    "taRoman": "jarigai",
+    "hex": "#D9B44A",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Puja Yellow",
+    "tr": "puja peela",
+    "hex": "#F5D142",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Gold Coin",
+    "tr": "sikka",
+    "hex": "#C8A548",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Ghee",
+    "tr": "ghee",
+    "hex": "#F5E6B8",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Kesar Saffron",
+    "tr": "kesar",
+    "hex": "#F28C28",
+    "family": "orange",
+    "cat": "spice"
+  },
+  {
+    "en": "Kashaya Ochre",
+    "tr": "kaavi",
+    "ta": "காவி",
+    "taRoman": "kaavi",
+    "hex": "#C46A2D",
+    "family": "orange",
+    "cat": "sacred"
+  },
+  {
+    "en": "Marigold Orange",
+    "tr": "genda narangi",
+    "hex": "#E97A1E",
+    "family": "orange",
+    "cat": "flora"
+  },
+  {
+    "en": "Pomegranate Flower",
+    "tr": "anar",
+    "hex": "#E8602C",
+    "family": "orange",
+    "cat": "flora"
+  },
+  {
+    "en": "Tangerine",
+    "tr": "santra",
+    "ta": "ஆரஞ்சு",
+    "taRoman": "aaranju",
+    "hex": "#F07C1F",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Ajanta Orange",
+    "tr": "ajanta narangi",
+    "hex": "#D9733B",
+    "family": "orange",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kesari",
+    "tr": "kesari",
+    "hex": "#F9A03F",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Copper",
+    "tr": "tamba",
+    "ta": "செம்பு",
+    "taRoman": "sembu",
+    "hex": "#B87333",
+    "family": "orange",
+    "cat": "metal"
+  },
+  {
+    "en": "Apricot",
+    "tr": "khubani",
+    "hex": "#F5B27A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Peach",
+    "tr": "aadoo",
+    "hex": "#F7B386",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Terracotta",
+    "tr": "khapra",
+    "hex": "#C65D3B",
+    "family": "orange",
+    "cat": "material"
+  },
+  {
+    "en": "Diya Clay",
+    "tr": "diya mitti",
+    "hex": "#D08A57",
+    "family": "orange",
+    "cat": "material"
+  },
+  {
+    "en": "Sunset",
+    "tr": "shaam narangi",
+    "hex": "#F4894A",
+    "family": "orange",
+    "cat": "nature"
+  },
+  {
+    "en": "Palash Flower",
+    "tr": "palash",
+    "hex": "#F26B3A",
+    "family": "orange",
+    "cat": "flora"
+  },
+  {
+    "en": "Kesar Milk",
+    "tr": "kesar doodh",
+    "hex": "#F9D6A7",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Sindoor",
+    "tr": "sindoor",
+    "ta": "சிந்தூரம்",
+    "taRoman": "sindooram",
+    "hex": "#D42A1F",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Kumkum",
+    "tr": "kumkum",
+    "ta": "குங்குமம்",
+    "taRoman": "kunkumam",
+    "hex": "#B81D2E",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Vermilion",
+    "tr": "hingul",
+    "ta": "சிவப்பு",
+    "taRoman": "sivappu",
+    "hex": "#E34234",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Geru Red Ochre",
+    "tr": "geru",
+    "hex": "#A34A2E",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Lac Red",
+    "tr": "lakh",
+    "ta": "அரக்கு",
+    "taRoman": "arakku",
+    "hex": "#B3123D",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Madder",
+    "tr": "manjistha",
+    "hex": "#9E2A2B",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Pomegranate Seed",
+    "tr": "anar dana",
+    "ta": "மாதுளை",
+    "taRoman": "maathulai",
+    "hex": "#A8182F",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Hibiscus",
+    "tr": "jaswand",
+    "ta": "செம்பருத்தி",
+    "taRoman": "sembaruthi",
+    "hex": "#C4153E",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Ruby",
+    "tr": "manik",
+    "ta": "மாணிக்கம்",
+    "taRoman": "maanikkam",
+    "hex": "#9B111E",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Coral",
+    "tr": "moonga",
+    "ta": "பவளம்",
+    "taRoman": "pavalam",
+    "hex": "#F0705A",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Gulmohar",
+    "tr": "gulmohar",
+    "hex": "#E8492B",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Carmine",
+    "tr": "kirmizi",
+    "hex": "#9E1B32",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Banarasi Red",
+    "tr": "banarasi laal",
+    "hex": "#A2233B",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Bandhani Red",
+    "tr": "bandhani laal",
+    "hex": "#C23B22",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Patola Maroon",
+    "tr": "patola",
+    "hex": "#6F1A30",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Carnelian",
+    "tr": "akik",
+    "hex": "#B3402B",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Garnet",
+    "tr": "lal",
+    "hex": "#733635",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Chilli",
+    "tr": "mirch",
+    "ta": "மிளகாய்",
+    "taRoman": "milagai",
+    "hex": "#C0392B",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Beetroot",
+    "tr": "chukandar",
+    "hex": "#8E2943",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Gulab Rose",
+    "tr": "gulab",
+    "ta": "ரோஜா",
+    "taRoman": "roja",
+    "hex": "#E0457B",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Gulal Pink",
+    "tr": "gulal",
+    "hex": "#E84E8A",
+    "family": "pink",
+    "cat": "ritual"
+  },
+  {
+    "en": "Lotus Pink",
+    "tr": "kamal",
+    "ta": "தாமரை",
+    "taRoman": "thaamarai",
+    "hex": "#EFA4C0",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Rani Pink",
+    "tr": "rani",
+    "hex": "#D5307E",
+    "family": "pink",
+    "cat": "ritual"
+  },
+  {
+    "en": "Kusumbha",
+    "tr": "kusumbha",
+    "hex": "#C8476D",
+    "family": "pink",
+    "cat": "dye"
+  },
+  {
+    "en": "Shell Pink",
+    "tr": "seep",
+    "hex": "#F2D0C9",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Begum Pink",
+    "tr": "begum",
+    "hex": "#E7A3B7",
+    "family": "pink",
+    "cat": "textile"
+  },
+  {
+    "en": "Dawn Pink",
+    "tr": "subah",
+    "hex": "#F2B6A0",
+    "family": "pink",
+    "cat": "sky"
+  },
+  {
+    "en": "Bougainvillea",
+    "tr": "baugainvilla",
+    "hex": "#C2185B",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Ajanta Pink",
+    "tr": "ajanta gulabi",
+    "hex": "#D98A94",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Mughal Rose",
+    "tr": "mughal gulab",
+    "hex": "#C77B8A",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Holi Magenta",
+    "tr": "holi",
+    "hex": "#C8318F",
+    "family": "pink",
+    "cat": "ritual"
+  },
+  {
+    "en": "Mulberry",
+    "tr": "shahtoot",
+    "hex": "#8B3A62",
+    "family": "pink",
+    "cat": "food"
+  },
+  {
+    "en": "Mother of Pearl",
+    "tr": "seep moti",
+    "hex": "#EAD8E0",
+    "family": "pink",
+    "cat": "gem"
+  },
+  {
+    "en": "Jamun",
+    "tr": "jamun",
+    "ta": "நாவல்",
+    "taRoman": "naaval",
+    "hex": "#5B2A86",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Lavender",
+    "tr": "lavang",
+    "hex": "#A78BC9",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Tyrian Plum",
+    "tr": "shahi arghwani",
+    "hex": "#66023C",
+    "family": "purple",
+    "cat": "dye"
+  },
+  {
+    "en": "Eggplant",
+    "tr": "baingan",
+    "ta": "கத்தரிக்காய்",
+    "taRoman": "kaththarikkaai",
+    "hex": "#3E1F47",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Kachnar",
+    "tr": "kachnar",
+    "hex": "#C98FBB",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Dusk",
+    "tr": "shaam",
+    "hex": "#6B4C7A",
+    "family": "purple",
+    "cat": "sky"
+  },
+  {
+    "en": "Heather",
+    "tr": "bhoomi jaamni",
+    "hex": "#8E7CB0",
+    "family": "purple",
+    "cat": "nature"
+  },
+  {
+    "en": "Royal Purple",
+    "tr": "shahi baingani",
+    "hex": "#4B0082",
+    "family": "purple",
+    "cat": "ritual"
+  },
+  {
+    "en": "Plum",
+    "tr": "aloo bukhara",
+    "hex": "#6A2C5A",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Mitti Soil",
+    "tr": "mitti",
+    "ta": "மண்",
+    "taRoman": "mann",
+    "hex": "#8B5E3C",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Kattha",
+    "tr": "kattha",
+    "hex": "#7A4B2A",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Teak",
+    "tr": "saagwan",
+    "ta": "தேக்கு",
+    "taRoman": "thekku",
+    "hex": "#7B4A24",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Tamarind",
+    "tr": "imli",
+    "ta": "புளி",
+    "taRoman": "puli",
+    "hex": "#7B5B3A",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Mehendi",
+    "tr": "mehndi",
+    "ta": "மருதாணி",
+    "taRoman": "marudhaani",
+    "hex": "#9C5B32",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Walnut",
+    "tr": "akhrot",
+    "hex": "#5C4033",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Jute",
+    "tr": "pat",
+    "ta": "சணல்",
+    "taRoman": "sanal",
+    "hex": "#C2A36B",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Bamboo",
+    "tr": "baans",
+    "ta": "மூங்கில்",
+    "taRoman": "moongil",
+    "hex": "#C9A45C",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Camel",
+    "tr": "unt",
+    "hex": "#C19A6B",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Betel Nut",
+    "tr": "supari",
+    "ta": "பாக்கு",
+    "taRoman": "paakku",
+    "hex": "#9C7B52",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Vetiver",
+    "tr": "khus",
+    "hex": "#B5A36B",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Chai",
+    "tr": "chai",
+    "ta": "தேநீர்",
+    "taRoman": "theneer",
+    "hex": "#A67B5B",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Sepia",
+    "tr": "bhoora",
+    "hex": "#704214",
+    "family": "brown",
+    "cat": "pigment"
+  },
+  {
+    "en": "Sand",
+    "tr": "manal",
+    "ta": "மணல்",
+    "taRoman": "manal",
+    "hex": "#E0B878",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Clay",
+    "tr": "kichad",
+    "hex": "#A17955",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Cocoa",
+    "tr": "cocoa",
+    "hex": "#5E3B2A",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Sheesham",
+    "tr": "sheesham",
+    "hex": "#5B2E22",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Sal Wood",
+    "tr": "sal",
+    "hex": "#8F6B3F",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Dried Leaf",
+    "tr": "sookha patta",
+    "hex": "#A88A54",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Chandan Wood",
+    "tr": "chandan",
+    "hex": "#B98B5E",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Bronze",
+    "tr": "kaansa",
+    "hex": "#8C6A3B",
+    "family": "brown",
+    "cat": "metal"
+  },
+  {
+    "en": "Coconut Husk",
+    "tr": "nariyal jat",
+    "hex": "#6B4F2F",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Cinnamon",
+    "tr": "dalchini",
+    "hex": "#A9622E",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Parrot Green",
+    "tr": "tota hari",
+    "ta": "கிளி பச்சை",
+    "taRoman": "kili pachai",
+    "hex": "#3EA055",
+    "family": "green",
+    "cat": "fauna"
+  },
+  {
+    "en": "Neem",
+    "tr": "neem",
+    "ta": "வேப்பிலை",
+    "taRoman": "veppilai",
+    "hex": "#6B8E23",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Emerald",
+    "tr": "panna",
+    "ta": "மரகதம்",
+    "taRoman": "marakatham",
+    "hex": "#17875A",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Tulsi",
+    "tr": "tulsi",
+    "ta": "துளசி",
+    "taRoman": "thulasi",
+    "hex": "#3B7D3A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Mint",
+    "tr": "pudina",
+    "ta": "புதினா",
+    "taRoman": "pudhina",
+    "hex": "#98D8AA",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Lime",
+    "tr": "neebu hari",
+    "hex": "#A4C639",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Pistachio",
+    "tr": "pista",
+    "hex": "#B5C88A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Olive",
+    "tr": "zaitun",
+    "hex": "#708238",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Forest",
+    "tr": "van hara",
+    "hex": "#2E5E2E",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Sea Green",
+    "tr": "hari samudra",
+    "hex": "#2E8B7A",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Jade",
+    "tr": "dhali",
+    "hex": "#00A86B",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Celadon",
+    "tr": "dhoop hari",
+    "hex": "#ACE1AF",
+    "family": "green",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Monsoon Green",
+    "tr": "saawan",
+    "hex": "#4A7C59",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Bel Leaf",
+    "tr": "vilvam",
+    "ta": "வில்வம்",
+    "taRoman": "vilvam",
+    "hex": "#3E6B2A",
+    "family": "green",
+    "cat": "sacred"
+  },
+  {
+    "en": "Mango Leaf",
+    "tr": "aam patti",
+    "hex": "#7DA04B",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Paan Leaf",
+    "tr": "paan",
+    "ta": "வெற்றிலை",
+    "taRoman": "vetrilai",
+    "hex": "#2F7D4B",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Sugarcane",
+    "tr": "ganna",
+    "ta": "கரும்பு",
+    "taRoman": "karumbu",
+    "hex": "#A6BF6A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Aquamarine",
+    "tr": "aquamarine",
+    "hex": "#7FD4C1",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Bronze Patina",
+    "tr": "kaansa hari",
+    "hex": "#5C7F6B",
+    "family": "green",
+    "cat": "metal"
+  },
+  {
+    "en": "Indigo",
+    "tr": "neel",
+    "ta": "அவுரி",
+    "taRoman": "avuri",
+    "hex": "#33427A",
+    "family": "blue",
+    "cat": "dye"
+  },
+  {
+    "en": "Neel Blue",
+    "tr": "neela",
+    "ta": "நீலம்",
+    "taRoman": "neelam",
+    "hex": "#1F4E9E",
+    "family": "blue",
+    "cat": "basic"
+  },
+  {
+    "en": "Lapis Lazuli",
+    "tr": "lajward",
+    "hex": "#26619C",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Sky",
+    "tr": "aasmaani",
+    "ta": "வானம்",
+    "taRoman": "vaanam",
+    "hex": "#6EB5E8",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Peacock Blue",
+    "tr": "mor neel",
+    "ta": "மயில் நீலம்",
+    "taRoman": "mayil neelam",
+    "hex": "#0F5F7C",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Krishna Blue",
+    "tr": "krishna neel",
+    "hex": "#2D4C9C",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Shiva Blue",
+    "tr": "neelkanth",
+    "hex": "#3A6FA8",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Ice",
+    "tr": "barf",
+    "hex": "#CDE8F5",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Ocean",
+    "tr": "samundar",
+    "ta": "கடல் நீலம்",
+    "taRoman": "kadal neelam",
+    "hex": "#1C5E8A",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Night Sky",
+    "tr": "raat",
+    "hex": "#1B2A4A",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Sapphire",
+    "tr": "neelam",
+    "ta": "நீலக்கல்",
+    "taRoman": "neelakkal",
+    "hex": "#0F52BA",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Turquoise",
+    "tr": "firoza",
+    "hex": "#40E0D0",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Slate Blue",
+    "tr": "slate",
+    "hex": "#5B6C8F",
+    "family": "blue",
+    "cat": "material"
+  },
+  {
+    "en": "Iris",
+    "tr": "iris",
+    "hex": "#5A5FB8",
+    "family": "blue",
+    "cat": "flora"
+  },
+  {
+    "en": "Sea Glass",
+    "tr": "samundar kaanch",
+    "hex": "#7FB2B5",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Rain Blue",
+    "tr": "barish neela",
+    "hex": "#5F8FB0",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Kohl",
+    "tr": "kajal",
+    "ta": "மை",
+    "taRoman": "mai",
+    "hex": "#1A1A1A",
+    "family": "neutral",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Iron",
+    "tr": "loha",
+    "ta": "இரும்பு",
+    "taRoman": "irumbu",
+    "hex": "#3A3A3A",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Charcoal",
+    "tr": "kolsa",
+    "hex": "#3B3B3E",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Black",
+    "tr": "kaala",
+    "ta": "கருப்பு",
+    "taRoman": "karuppu",
+    "hex": "#111111",
+    "family": "neutral",
+    "cat": "basic"
+  },
+  {
+    "en": "Ash",
+    "tr": "raakh",
+    "ta": "சாம்பல்",
+    "taRoman": "saambal",
+    "hex": "#9C9A96",
+    "family": "neutral",
+    "cat": "sacred"
+  },
+  {
+    "en": "Sacred Ash",
+    "tr": "bhasma",
+    "ta": "திருநீறு",
+    "taRoman": "thiruneeru",
+    "hex": "#B9B4AA",
+    "family": "neutral",
+    "cat": "sacred"
+  },
+  {
+    "en": "Dove Grey",
+    "tr": "kabootari",
+    "hex": "#8A8F94",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Silver",
+    "tr": "chaandi",
+    "ta": "வெள்ளி",
+    "taRoman": "velli",
+    "hex": "#C0C0C0",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Stone",
+    "tr": "patthar",
+    "hex": "#7D7D7A",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Diamond",
+    "tr": "heera",
+    "ta": "வைரம்",
+    "taRoman": "vairam",
+    "hex": "#E9F1F7",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Cloud",
+    "tr": "megh",
+    "hex": "#DADDE0",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Smoke",
+    "tr": "dhuan",
+    "ta": "புகை",
+    "taRoman": "pugai",
+    "hex": "#5F6469",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Pumice",
+    "tr": "pumice",
+    "hex": "#CFC6B8",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Khadi Cream",
+    "tr": "khadi",
+    "ta": "கதர்",
+    "taRoman": "kathar",
+    "hex": "#EFE3C2",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Ivory",
+    "tr": "haathi daant",
+    "ta": "தந்தம்",
+    "taRoman": "thantham",
+    "hex": "#F4EEDB",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Pearl",
+    "tr": "moti",
+    "ta": "முத்து",
+    "taRoman": "muthu",
+    "hex": "#EDE7DD",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Chalk White",
+    "tr": "chuna",
+    "ta": "சுண்ணாம்பு",
+    "taRoman": "sunnambu",
+    "hex": "#F7F4EA",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "White",
+    "tr": "safed",
+    "ta": "வெள்ளை",
+    "taRoman": "vellai",
+    "hex": "#FAFAF5",
+    "family": "neutral",
+    "cat": "basic"
+  },
+  {
+    "en": "Lotus White",
+    "tr": "kamal safed",
+    "hex": "#FBF7F0",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Muslin",
+    "tr": "malmal",
+    "hex": "#E8E4D8",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Pashmina",
+    "tr": "pashmina",
+    "hex": "#E8DBC8",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Chanderi",
+    "tr": "chanderi",
+    "hex": "#F5EFE0",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Cotton",
+    "tr": "kapas",
+    "ta": "பருத்தி",
+    "taRoman": "paruthi",
+    "hex": "#F3EFE6",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Greige",
+    "tr": "khadi grey",
+    "hex": "#C8BFAE",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Iron Steel",
+    "tr": "fulaad",
+    "hex": "#B6BCC2",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Kalamkari",
+    "tr": "kalamkari",
+    "hex": "#4A2C1B",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Sky Silver",
+    "tr": "chaandi neela",
+    "hex": "#A9C4D6",
+    "family": "blue",
+    "cat": "metal"
+  },
+  {
+    "en": "Desert Dawn",
+    "tr": "registan",
+    "hex": "#E9C59A",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Rose Water",
+    "tr": "gulab jal",
+    "hex": "#F6D7E0",
+    "family": "pink",
+    "cat": "ritual"
+  },
+  {
+    "en": "Peepal Leaf",
+    "tr": "peepal",
+    "ta": "அரசு",
+    "taRoman": "arasu",
+    "hex": "#6E9E4E",
+    "family": "green",
+    "cat": "sacred"
+  },
+  {
+    "en": "Ganga Water",
+    "tr": "gangajal",
+    "hex": "#A9D6E5",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Red Earth",
+    "tr": "laal mitti",
+    "hex": "#9C4A2F",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Mughal Blue",
+    "tr": "mughal neela",
+    "hex": "#2F5D8C",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Ajanta Blue",
+    "tr": "ajanta neela",
+    "hex": "#3E6A8C",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kingfisher",
+    "tr": "chota neel",
+    "hex": "#2A7AB0",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Mor Teal",
+    "tr": "mor hara",
+    "hex": "#0E7C7B",
+    "family": "green",
+    "cat": "fauna"
+  },
+  {
+    "en": "Cardamom",
+    "tr": "elaichi",
+    "ta": "ஏலக்காய்",
+    "taRoman": "aelakkaai",
+    "hex": "#7C9A3B",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Kiwi",
+    "tr": "kiwi",
+    "hex": "#8DB255",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Mughal Green",
+    "tr": "mughal hara",
+    "hex": "#2E6B4F",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Moss",
+    "tr": "kai",
+    "hex": "#7A8450",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Pine",
+    "tr": "cheed",
+    "hex": "#1F5141",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Cucumber",
+    "tr": "kheera",
+    "hex": "#7FB069",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Dhoop Leaf",
+    "tr": "dhoop hara",
+    "hex": "#6BA368",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Kadamba",
+    "tr": "kadam",
+    "hex": "#9D7BC6",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Wisteria",
+    "tr": "wisteria",
+    "hex": "#C4A3D4",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Mauve",
+    "tr": "mauve",
+    "hex": "#B57FB2",
+    "family": "purple",
+    "cat": "nature"
+  },
+  {
+    "en": "Grape",
+    "tr": "angoor",
+    "hex": "#5E2750",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Amethyst",
+    "tr": "amethyst",
+    "hex": "#9966CC",
+    "family": "purple",
+    "cat": "gem"
+  },
+  {
+    "en": "Lilac Haze",
+    "tr": "lilac",
+    "hex": "#D0B3DE",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Burnt Umber",
+    "tr": "jala",
+    "hex": "#8A3324",
+    "family": "brown",
+    "cat": "pigment"
+  },
+  {
+    "en": "Cumin",
+    "tr": "jeera",
+    "hex": "#B08D57",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Ginger",
+    "tr": "adrak",
+    "hex": "#C7A06E",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Rust",
+    "tr": "zang",
+    "hex": "#B7552B",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Bark",
+    "tr": "chaal",
+    "hex": "#5A3E2B",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Cotton Grey",
+    "tr": "kapas grey",
+    "hex": "#D5D0C6",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Sindhi Red",
+    "tr": "sindhi laal",
+    "hex": "#B2283C",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Sealing Wax",
+    "tr": "laakh",
+    "hex": "#9B1D24",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Blood Orange",
+    "tr": "khoon narangi",
+    "hex": "#D83A2E",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Coral Pink",
+    "tr": "munga",
+    "hex": "#F4826E",
+    "family": "pink",
+    "cat": "gem"
+  },
+  {
+    "en": "Blush",
+    "tr": "gulabi",
+    "hex": "#F4A7B9",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Rose Quartz",
+    "tr": "rose quartz",
+    "hex": "#F7CAC9",
+    "family": "pink",
+    "cat": "gem"
+  },
+  {
+    "en": "Pink Sand",
+    "tr": "gulabi reyt",
+    "hex": "#E7B9A9",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Mughal Pink",
+    "tr": "mughal gulabi",
+    "hex": "#E0899B",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Ajanta Gulabi Ochre",
+    "tr": "ajanta gulabi mitti",
+    "hex": "#C9706F",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Peony",
+    "tr": "shakti pushp",
+    "hex": "#E65E8F",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Rose Petal",
+    "tr": "gulab patti",
+    "hex": "#D98BA0",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Mango Pulp",
+    "tr": "aam ras",
+    "hex": "#FFC857",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Sun Haze",
+    "tr": "dhoop dhundh",
+    "hex": "#F9E27D",
+    "family": "yellow",
+    "cat": "nature"
+  },
+  {
+    "en": "Maize",
+    "tr": "makka",
+    "hex": "#F6C945",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Corn Silk",
+    "tr": "bhutta reshaa",
+    "hex": "#F8EAB0",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Pale Lime",
+    "tr": "nimbu halka",
+    "hex": "#E6EE9C",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Sandalwood Pale",
+    "tr": "chandan halka",
+    "hex": "#EAD8B0",
+    "family": "brown",
+    "cat": "ritual"
+  },
+  {
+    "en": "Chhaya Dusk Grey",
+    "tr": "chhaya",
+    "hex": "#6E6A78",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Stormcloud",
+    "tr": "kaali ghata",
+    "hex": "#4E5561",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Tamarind Seed",
+    "tr": "imli beej",
+    "hex": "#8D6B4C",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Jaggery",
+    "tr": "gud",
+    "hex": "#C98A2E",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Tandoori",
+    "tr": "tandoori",
+    "hex": "#D9532B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Papaya",
+    "tr": "papita",
+    "hex": "#F7A35C",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Orange Clay",
+    "tr": "narangi mitti",
+    "hex": "#E27A4B",
+    "family": "orange",
+    "cat": "material"
+  },
+  {
+    "en": "Pumpkin",
+    "tr": "kaddu",
+    "hex": "#EC8A3B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Ruby Red",
+    "tr": "laal manik",
+    "hex": "#E0115F",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Pomegranate Wine",
+    "tr": "anar sharab",
+    "hex": "#7B1830",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Coral Red",
+    "tr": "moonga laal",
+    "hex": "#E4572E",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Cherry Red",
+    "tr": "cherry laal",
+    "hex": "#C81D25",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Maheshwari",
+    "tr": "maheshwari",
+    "hex": "#9E3D3F",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Kantha Red",
+    "tr": "kantha laal",
+    "hex": "#B5443A",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Rose Dust",
+    "tr": "gulab dhool",
+    "hex": "#C58F9A",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Champagne Pink",
+    "tr": "champagne gulabi",
+    "hex": "#F3D5C4",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Hot Pink",
+    "tr": "gehra gulabi",
+    "hex": "#FF4F9A",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Sweet Pea",
+    "tr": "sweet pea",
+    "hex": "#D7A0C8",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Tulip",
+    "tr": "tulip",
+    "hex": "#E63E62",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Gold Dust",
+    "tr": "sone ki dhool",
+    "hex": "#E8BC3F",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Butter",
+    "tr": "makkhan",
+    "hex": "#F9E6A0",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Ochre Gold",
+    "tr": "gerua peela",
+    "hex": "#D2A23A",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Citrine",
+    "tr": "citrine",
+    "hex": "#E4D00A",
+    "family": "yellow",
+    "cat": "gem"
+  },
+  {
+    "en": "Mughal Gold",
+    "tr": "mughal sona",
+    "hex": "#BF9B30",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Mysore Silk",
+    "tr": "mysore resham",
+    "hex": "#B8860B",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Mahogany",
+    "tr": "mahogany",
+    "hex": "#4E2A1E",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Ebony",
+    "tr": "abnoos",
+    "hex": "#2E211A",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Hazel",
+    "tr": "hazel",
+    "hex": "#A67D52",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Saddle",
+    "tr": "zin",
+    "hex": "#6B4226",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Riverbed",
+    "tr": "nadi tal",
+    "hex": "#7A6A53",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Ragi",
+    "tr": "ragi",
+    "hex": "#8A6B4E",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Filter Coffee",
+    "tr": "filter coffee",
+    "hex": "#6F4E37",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Bajra",
+    "tr": "bajra",
+    "hex": "#B99A5B",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Warli Earth",
+    "tr": "warli mitti",
+    "hex": "#A65E3D",
+    "family": "brown",
+    "cat": "pigment"
+  },
+  {
+    "en": "Agate",
+    "tr": "haqeeq",
+    "hex": "#C07A4B",
+    "family": "brown",
+    "cat": "gem"
+  },
+  {
+    "en": "Sage Leaf",
+    "tr": "sage patta",
+    "hex": "#87A96B",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Teak Leaf",
+    "tr": "sagaun patta",
+    "hex": "#4F7942",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Pear Green",
+    "tr": "nashpati hari",
+    "hex": "#C4D96B",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Ocean Green",
+    "tr": "samundar hari",
+    "hex": "#3CB371",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Sprout",
+    "tr": "ankur",
+    "hex": "#8BC34A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Malachite",
+    "tr": "malachite",
+    "hex": "#0B6E4F",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Madhubani Green",
+    "tr": "madhubani hara",
+    "hex": "#5B8A4F",
+    "family": "green",
+    "cat": "textile"
+  },
+  {
+    "en": "Azure",
+    "tr": "azure",
+    "hex": "#3B8FD6",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Ultramarine",
+    "tr": "ultramarine",
+    "hex": "#2A3FAA",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Deep Sea",
+    "tr": "gehra samundar",
+    "hex": "#103A5C",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Periwinkle",
+    "tr": "periwinkle",
+    "hex": "#8F9BD6",
+    "family": "blue",
+    "cat": "flora"
+  },
+  {
+    "en": "Mughal Teal",
+    "tr": "mughal feeroza",
+    "hex": "#2B6B6B",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Moonstone",
+    "tr": "chandrakaant",
+    "hex": "#C9D6DF",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Ajrakh Indigo",
+    "tr": "ajrakh neel",
+    "hex": "#223D5A",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Pichwai Blue",
+    "tr": "pichwai neela",
+    "hex": "#3F5E9E",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Violet Ink",
+    "tr": "baingani siyahi",
+    "hex": "#6C3FA0",
+    "family": "purple",
+    "cat": "dye"
+  },
+  {
+    "en": "Iris Purple",
+    "tr": "neelam baingani",
+    "hex": "#7E57C2",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Begonia",
+    "tr": "begonia",
+    "hex": "#B04A8A",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Brinjal Flower",
+    "tr": "baingan phool",
+    "hex": "#7B3F8C",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Lotus Violet",
+    "tr": "kamal baingani",
+    "hex": "#A36DBA",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Tanzanite",
+    "tr": "tanzanite",
+    "hex": "#5D3FD3",
+    "family": "purple",
+    "cat": "gem"
+  },
+  {
+    "en": "Rose Hip",
+    "tr": "rose hip",
+    "hex": "#B84C5E",
+    "family": "red",
+    "cat": "nature"
+  },
+  {
+    "en": "Linen",
+    "tr": "alsi",
+    "hex": "#F2E8DA",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Opal",
+    "tr": "opal",
+    "hex": "#E9E6F0",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Mist",
+    "tr": "kohra",
+    "hex": "#E7ECEF",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Champak White",
+    "tr": "champa safed",
+    "hex": "#FBF3D5",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Bajra Dust",
+    "tr": "bajra dhool",
+    "hex": "#D6C7A6",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Kanchi Gold",
+    "tr": "kanchi sunehri",
+    "hex": "#C9A24A",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Sandstone",
+    "tr": "balua patthar",
+    "hex": "#D8B07A",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Ashoka Orange",
+    "tr": "ashoka narangi",
+    "hex": "#EE7B30",
+    "family": "orange",
+    "cat": "flora"
+  },
+  {
+    "en": "Ajanta Ochre",
+    "tr": "ajanta peeli mitti",
+    "hex": "#B9873B",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Peacock Feather",
+    "tr": "mor pankh",
+    "hex": "#0D6A6E",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Jasper",
+    "tr": "jasper",
+    "hex": "#A0522D",
+    "family": "brown",
+    "cat": "gem"
+  },
+  {
+    "en": "Aventurine",
+    "tr": "aventurine",
+    "hex": "#3C8D6E",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Parijat",
+    "tr": "parijat",
+    "hex": "#E9C8E2",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Rudraksha",
+    "tr": "rudraksha",
+    "hex": "#5E4B3C",
+    "family": "brown",
+    "cat": "sacred"
+  },
+  {
+    "en": "Kumkum Lal",
+    "tr": "kumkum laal",
+    "hex": "#A8122A",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Black Pepper",
+    "tr": "kali mirch",
+    "hex": "#34302B",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "White Pepper",
+    "tr": "safed mirch",
+    "hex": "#D8D0BE",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Clove",
+    "tr": "laung",
+    "hex": "#4A2E22",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Nutmeg",
+    "tr": "jaiphal",
+    "hex": "#926340",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Mace Blade",
+    "tr": "javitri",
+    "hex": "#C98F4A",
+    "family": "orange",
+    "cat": "spice"
+  },
+  {
+    "en": "Star Anise",
+    "tr": "chakri phool",
+    "hex": "#593928",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Fenugreek Seed",
+    "tr": "methi dana",
+    "hex": "#CFA74D",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Coriander Seed",
+    "tr": "dhaniya",
+    "hex": "#C8A96B",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Carom Seed",
+    "tr": "ajwain",
+    "hex": "#9C8B5A",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Nigella",
+    "tr": "kalonji",
+    "hex": "#262321",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "Poppy Seed",
+    "tr": "khus khus",
+    "hex": "#E4DCCB",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "Mustard Oil",
+    "tr": "sarson tel",
+    "hex": "#DBB53B",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Asafoetida",
+    "tr": "hing",
+    "hex": "#CBB38A",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Kashmiri Chilli",
+    "tr": "kashmiri mirch",
+    "hex": "#B3261E",
+    "family": "red",
+    "cat": "spice"
+  },
+  {
+    "en": "Green Chilli",
+    "tr": "hari mirch",
+    "hex": "#4E8F3A",
+    "family": "green",
+    "cat": "spice"
+  },
+  {
+    "en": "Garam Masala",
+    "tr": "garam masala",
+    "hex": "#77482A",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Curry Leaf",
+    "tr": "kadi patta",
+    "hex": "#3F6B35",
+    "family": "green",
+    "cat": "spice"
+  },
+  {
+    "en": "Bay Leaf",
+    "tr": "tej patta",
+    "hex": "#7A8449",
+    "family": "green",
+    "cat": "spice"
+  },
+  {
+    "en": "Saffron Strand",
+    "tr": "kesar tantu",
+    "hex": "#E2531F",
+    "family": "red",
+    "cat": "spice"
+  },
+  {
+    "en": "Dry Ginger",
+    "tr": "sonth",
+    "hex": "#C4A574",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Long Pepper",
+    "tr": "pipli",
+    "hex": "#63503E",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Amchur",
+    "tr": "amchoor",
+    "hex": "#D1A860",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Black Cardamom",
+    "tr": "badi elaichi",
+    "hex": "#4B3326",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Green Cardamom",
+    "tr": "choti elaichi",
+    "hex": "#A3B27B",
+    "family": "green",
+    "cat": "spice"
+  },
+  {
+    "en": "Tamarind Pulp",
+    "tr": "imli",
+    "hex": "#6D3B22",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Rock Salt",
+    "tr": "sendha namak",
+    "hex": "#E9C3C3",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "Black Salt",
+    "tr": "kala namak",
+    "hex": "#8C6C6C",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "Turmeric Root",
+    "tr": "kachi haldi",
+    "hex": "#D98E04",
+    "family": "yellow",
+    "cat": "spice"
+  },
+  {
+    "en": "Cinnamon Bark",
+    "tr": "dalchini chhal",
+    "hex": "#A85730",
+    "family": "red",
+    "cat": "spice"
+  },
+  {
+    "en": "Mustard Greens",
+    "tr": "sarson saag",
+    "hex": "#4F7A32",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Shahi Jeera",
+    "tr": "shahi jeera",
+    "hex": "#3A2F28",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "Dill Seed",
+    "tr": "soya",
+    "hex": "#B8A55A",
+    "family": "brown",
+    "cat": "spice"
+  },
+  {
+    "en": "Sesame White",
+    "tr": "safed til",
+    "hex": "#E8DCC0",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "Sesame Black",
+    "tr": "kala til",
+    "hex": "#2D2A27",
+    "family": "neutral",
+    "cat": "spice"
+  },
+  {
+    "en": "Mint Chutney",
+    "tr": "pudina chutney",
+    "hex": "#5FA05A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Coriander Chutney",
+    "tr": "dhaniya chutney",
+    "hex": "#6FA84A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Tamarind Chutney",
+    "tr": "imli chutney",
+    "hex": "#7A4426",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Mango Pickle",
+    "tr": "aam achar",
+    "hex": "#BE8A0C",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Jalebi",
+    "tr": "jalebi",
+    "hex": "#F29E1B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Gulab Jamun",
+    "tr": "gulab jamun",
+    "hex": "#6B2A1A",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Rasgulla",
+    "tr": "rasgulla",
+    "hex": "#FFFBF0",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Kaju Katli",
+    "tr": "kaju katli",
+    "hex": "#EBE2C7",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Besan Ladoo",
+    "tr": "besan ladoo",
+    "hex": "#E6B23F",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Motichoor",
+    "tr": "motichoor",
+    "hex": "#F0A431",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Pista Barfi",
+    "tr": "pista barfi",
+    "hex": "#9CBF7A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Kulfi",
+    "tr": "kulfi",
+    "hex": "#FAE9B8",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Peda",
+    "tr": "peda",
+    "hex": "#D9B382",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Mysore Pak",
+    "tr": "mysore pak",
+    "hex": "#EBBC4B",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Soan Papdi",
+    "tr": "soan papdi",
+    "hex": "#F2D9A0",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Gajar Halwa",
+    "tr": "gajar halwa",
+    "hex": "#D9541E",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Kheer",
+    "tr": "kheer",
+    "hex": "#F7EBCB",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Payasam",
+    "tr": "payasam",
+    "hex": "#E3B66B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Imarti",
+    "tr": "imarti",
+    "hex": "#E0701A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Petha",
+    "tr": "petha",
+    "hex": "#ECE7D4",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Rabri",
+    "tr": "rabri",
+    "hex": "#E9CF93",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Sandesh",
+    "tr": "sandesh",
+    "hex": "#F1E4C7",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Chikki",
+    "tr": "chikki",
+    "hex": "#B3752D",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Til Ladoo",
+    "tr": "til ladoo",
+    "hex": "#8B6B3F",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Gajak",
+    "tr": "gajak",
+    "hex": "#C69B5A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Dosa",
+    "tr": "dosa",
+    "hex": "#D9A45B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Idli",
+    "tr": "idli",
+    "hex": "#FAF5E7",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Sambar",
+    "tr": "sambar",
+    "hex": "#C26A1B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Rasam",
+    "tr": "rasam",
+    "hex": "#B03B22",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Dal Tadka",
+    "tr": "dal tadka",
+    "hex": "#E0A726",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Paneer",
+    "tr": "paneer",
+    "hex": "#FAF3DF",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Makhani Gravy",
+    "tr": "makhani",
+    "hex": "#D4562A",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Biryani Rice",
+    "tr": "biryani",
+    "hex": "#E5C26B",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Basmati",
+    "tr": "basmati",
+    "hex": "#F1E9D2",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Naan",
+    "tr": "naan",
+    "hex": "#E3C79A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Roti",
+    "tr": "roti",
+    "hex": "#DBB580",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Paratha",
+    "tr": "paratha",
+    "hex": "#D6A15B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Samosa",
+    "tr": "samosa",
+    "hex": "#C8872E",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Pakora",
+    "tr": "pakora",
+    "hex": "#B97B2E",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Bhel",
+    "tr": "bhel",
+    "hex": "#E2B65E",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Pani Puri",
+    "tr": "pani puri",
+    "hex": "#C79748",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Vada Pav",
+    "tr": "vada pav",
+    "hex": "#C98A3D",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Lassi",
+    "tr": "lassi",
+    "hex": "#FCF6DF",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Thandai",
+    "tr": "thandai",
+    "hex": "#E7D6A8",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Masala Chai",
+    "tr": "masala chai",
+    "hex": "#A8693A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Kulhad",
+    "tr": "kulhad",
+    "hex": "#B25E3D",
+    "family": "red",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Nimbu Pani",
+    "tr": "nimbu pani",
+    "hex": "#E6E49A",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Coconut Water",
+    "tr": "nariyal pani",
+    "hex": "#EFF1E2",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Ganne Ka Ras",
+    "tr": "ganne ka ras",
+    "hex": "#C8D487",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Khoya",
+    "tr": "khoya",
+    "hex": "#EDDDB8",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Makhana",
+    "tr": "makhana",
+    "hex": "#FFF9E8",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Cashew",
+    "tr": "kaju",
+    "hex": "#F2DFB5",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Almond",
+    "tr": "badam",
+    "hex": "#D4B88C",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Pista Shell",
+    "tr": "pista",
+    "hex": "#BDCD8F",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Raisin",
+    "tr": "kishmish",
+    "hex": "#5A3B2E",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Fig",
+    "tr": "anjeer",
+    "hex": "#6B4457",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Dates",
+    "tr": "khajoor",
+    "hex": "#5B3A21",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Walnut Kernel",
+    "tr": "akhrot",
+    "hex": "#B79A6D",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Supari",
+    "tr": "supari",
+    "hex": "#8B5A3A",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Gulkand",
+    "tr": "gulkand",
+    "hex": "#B2476B",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Rooh Afza",
+    "tr": "rooh afza",
+    "hex": "#D12B45",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Banta Soda",
+    "tr": "banta",
+    "hex": "#9AD1C9",
+    "family": "blue",
+    "cat": "food"
+  },
+  {
+    "en": "Alphonso",
+    "tr": "alphonso",
+    "hex": "#F3A83B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Kesar Mango",
+    "tr": "kesar aam",
+    "hex": "#F4B13C",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Dasheri",
+    "tr": "dasheri",
+    "hex": "#E2C84B",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Totapuri",
+    "tr": "totapuri",
+    "hex": "#E9C13A",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Raw Mango",
+    "tr": "kaccha aam",
+    "hex": "#9DBB4F",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Pink Guava",
+    "tr": "gulabi amrud",
+    "hex": "#E88A8F",
+    "family": "pink",
+    "cat": "food"
+  },
+  {
+    "en": "Custard Apple",
+    "tr": "sharifa",
+    "hex": "#A7C47A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Sapota",
+    "tr": "chikoo",
+    "hex": "#B9885B",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Litchi",
+    "tr": "lichi",
+    "hex": "#E36A6A",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Anar Dana",
+    "tr": "anar dana",
+    "hex": "#C41E3A",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Watermelon",
+    "tr": "tarbooz",
+    "hex": "#E8556A",
+    "family": "pink",
+    "cat": "food"
+  },
+  {
+    "en": "Muskmelon",
+    "tr": "kharbooza",
+    "hex": "#F2C890",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Coconut Flesh",
+    "tr": "nariyal",
+    "hex": "#EDEAE2",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Tender Coconut",
+    "tr": "dab",
+    "hex": "#C1D6A4",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Amla",
+    "tr": "amla",
+    "hex": "#B5C86A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Karonda",
+    "tr": "karonda",
+    "hex": "#C23B5A",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Ber",
+    "tr": "ber",
+    "hex": "#CC8C3B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Tendli",
+    "tr": "tendli",
+    "hex": "#7CB55A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Bitter Gourd",
+    "tr": "karela",
+    "hex": "#4A7A3C",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Bottle Gourd",
+    "tr": "lauki",
+    "hex": "#B8D39A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Okra",
+    "tr": "bhindi",
+    "hex": "#6BA04A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Baingan Purple",
+    "tr": "baingan",
+    "hex": "#4B2A58",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Carrot",
+    "tr": "gajar",
+    "hex": "#EF7F1A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Radish White",
+    "tr": "mooli",
+    "hex": "#FFFFF6",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Tomato",
+    "tr": "tamatar",
+    "hex": "#D9381E",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Pyaz Red",
+    "tr": "pyaz",
+    "hex": "#B35A7B",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Garlic",
+    "tr": "lehsun",
+    "hex": "#DFD7C8",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Potato",
+    "tr": "aloo",
+    "hex": "#C9A66B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Shakarkandi",
+    "tr": "shakarkandi",
+    "hex": "#C26A3A",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Cauliflower",
+    "tr": "gobhi",
+    "hex": "#F6EED6",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Peas",
+    "tr": "matar",
+    "hex": "#7BB661",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Spinach",
+    "tr": "palak",
+    "hex": "#2F6B33",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Methi Leaf",
+    "tr": "methi patta",
+    "hex": "#4F8A3B",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Drumstick",
+    "tr": "sahjan",
+    "hex": "#6F9B4E",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Banana Stem",
+    "tr": "kele ka tana",
+    "hex": "#D9E3B0",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Lotus Stem",
+    "tr": "kamal kakdi",
+    "hex": "#E7D3B4",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Colocasia",
+    "tr": "arbi",
+    "hex": "#8A8F55",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Raw Banana",
+    "tr": "kaccha kela",
+    "hex": "#B6CC84",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Ridge Gourd",
+    "tr": "turai",
+    "hex": "#799C49",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Pumpkin Flesh",
+    "tr": "kaddu",
+    "hex": "#E58A1F",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Beetroot Juice",
+    "tr": "chukandar ras",
+    "hex": "#8E1B4A",
+    "family": "purple",
+    "cat": "food"
+  },
+  {
+    "en": "Jaggery Syrup",
+    "tr": "gur ki chashni",
+    "hex": "#B5651D",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Kalakand",
+    "tr": "kalakand",
+    "hex": "#E2D3AC",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Rasbhari",
+    "tr": "rasbhari",
+    "hex": "#E7456B",
+    "family": "pink",
+    "cat": "food"
+  },
+  {
+    "en": "Cham Cham",
+    "tr": "cham cham",
+    "hex": "#F2D6C8",
+    "family": "pink",
+    "cat": "food"
+  },
+  {
+    "en": "Pinni",
+    "tr": "pinni",
+    "hex": "#D2A15B",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Murukku",
+    "tr": "murukku",
+    "hex": "#D9A94E",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Appam",
+    "tr": "appam",
+    "hex": "#FDF0D1",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Puttu",
+    "tr": "puttu",
+    "hex": "#FFFFEF",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Upma",
+    "tr": "upma",
+    "hex": "#ECC96F",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Poha",
+    "tr": "poha",
+    "hex": "#EFD45A",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Dhokla",
+    "tr": "dhokla",
+    "hex": "#F2D74A",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Thepla",
+    "tr": "thepla",
+    "hex": "#8FA352",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Khakhra",
+    "tr": "khakhra",
+    "hex": "#CFA96C",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Sev",
+    "tr": "sev",
+    "hex": "#E8B84E",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Papad",
+    "tr": "papad",
+    "hex": "#E9CB92",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Pickled Lemon",
+    "tr": "nimbu achar",
+    "hex": "#B59A2E",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Ghee Roast",
+    "tr": "ghee roast",
+    "hex": "#C77B2C",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Coffee Bean",
+    "tr": "kaapi",
+    "hex": "#492B1D",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Tea Leaf",
+    "tr": "chai patti",
+    "hex": "#5B4A28",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Darjeeling Tea",
+    "tr": "darjeeling",
+    "hex": "#AE742C",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Assam Tea",
+    "tr": "assam chai",
+    "hex": "#7A3E1D",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Nilgiri Tea",
+    "tr": "nilgiri chai",
+    "hex": "#8A6A2F",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Green Tea Leaf",
+    "tr": "hari chai",
+    "hex": "#7C8B4A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Kahwa",
+    "tr": "kahwa",
+    "hex": "#E3B25B",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Sattu",
+    "tr": "sattu",
+    "hex": "#C6A36C",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Jowar",
+    "tr": "jowar",
+    "hex": "#E6D2A2",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Bajra Flour",
+    "tr": "bajra atta",
+    "hex": "#A8A18D",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Millet Gold",
+    "tr": "bajra",
+    "hex": "#D9B95B",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Wheat Grain",
+    "tr": "gehun",
+    "hex": "#D8B66A",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Moong Dal",
+    "tr": "moong dal",
+    "hex": "#E9CF51",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Masoor Dal",
+    "tr": "masoor dal",
+    "hex": "#D8692A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Toor Dal",
+    "tr": "toor dal",
+    "hex": "#E0B73B",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Chana Dal",
+    "tr": "chana dal",
+    "hex": "#D6A42D",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Urad Dal",
+    "tr": "urad dal",
+    "hex": "#E6E1CD",
+    "family": "neutral",
+    "cat": "food"
+  },
+  {
+    "en": "Rajma",
+    "tr": "rajma",
+    "hex": "#8E2A22",
+    "family": "red",
+    "cat": "food"
+  },
+  {
+    "en": "Kala Chana",
+    "tr": "kala chana",
+    "hex": "#4D3B2C",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Kabuli Chana",
+    "tr": "kabuli chana",
+    "hex": "#E4CD97",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Rajnigandha",
+    "tr": "rajnigandha",
+    "hex": "#EDE9DB",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Mogra",
+    "tr": "mogra",
+    "hex": "#FFFFFB",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Genda Gold",
+    "tr": "genda sona",
+    "hex": "#E7A412",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Gulab Pink",
+    "tr": "gulab gulabi",
+    "hex": "#E8749C",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Gulab Peach",
+    "tr": "gulab aadu",
+    "hex": "#F4B49A",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Kamal Pink",
+    "tr": "kamal gulabi",
+    "hex": "#EE8AA6",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Neel Kamal",
+    "tr": "neel kamal",
+    "hex": "#5B8FD0",
+    "family": "blue",
+    "cat": "flora"
+  },
+  {
+    "en": "Kachnar Blush",
+    "tr": "kachnar",
+    "hex": "#D98AB5",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Amaltas",
+    "tr": "amaltas",
+    "hex": "#F2C21B",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Gulmohar Flame",
+    "tr": "gulmohar",
+    "hex": "#E5381C",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Jacaranda",
+    "tr": "jacaranda",
+    "hex": "#8C7BC4",
+    "family": "blue",
+    "cat": "flora"
+  },
+  {
+    "en": "Semal",
+    "tr": "semal",
+    "hex": "#D9362A",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Kadamba Ball",
+    "tr": "kadamb",
+    "hex": "#E9B93F",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Ashoka Bloom",
+    "tr": "ashok phool",
+    "hex": "#F0701E",
+    "family": "orange",
+    "cat": "flora"
+  },
+  {
+    "en": "Harsingar",
+    "tr": "harsingar",
+    "hex": "#FFFFFF",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Kewra",
+    "tr": "kewra",
+    "hex": "#C9D6A0",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Keora Pale",
+    "tr": "keora",
+    "hex": "#E5ECC8",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Bakul",
+    "tr": "bakul",
+    "hex": "#E7E0C8",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Champa Cream",
+    "tr": "champa",
+    "hex": "#F2E7BE",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Ketaki",
+    "tr": "ketaki",
+    "hex": "#DDE2A9",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Madhavi",
+    "tr": "madhavi",
+    "hex": "#F4A8C0",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Madhumalti",
+    "tr": "madhumalti",
+    "hex": "#E87FA0",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Bougainvillea Magenta",
+    "tr": "bougainvillea",
+    "hex": "#C21B7E",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Hibiscus Red",
+    "tr": "gudhal",
+    "hex": "#D7152A",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Hibiscus Orange",
+    "tr": "gudhal narangi",
+    "hex": "#F26B1D",
+    "family": "orange",
+    "cat": "flora"
+  },
+  {
+    "en": "Oleander",
+    "tr": "kaner",
+    "hex": "#F28DAC",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Frangipani",
+    "tr": "champa phool",
+    "hex": "#F8E3A1",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Tuberose",
+    "tr": "nishigandha",
+    "hex": "#E3DFD1",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Lavender Bloom",
+    "tr": "lavender",
+    "hex": "#9C86C9",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Orchid Magenta",
+    "tr": "orchid",
+    "hex": "#B5479B",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Sunflower Yellow",
+    "tr": "surajmukhi",
+    "hex": "#F5C400",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Zinnia",
+    "tr": "zinnia",
+    "hex": "#E24A2E",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Dahlia",
+    "tr": "dahlia",
+    "hex": "#B3203F",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Balsam",
+    "tr": "gulmehndi",
+    "hex": "#E05A8A",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Morning Glory",
+    "tr": "morning glory",
+    "hex": "#4F63C4",
+    "family": "blue",
+    "cat": "flora"
+  },
+  {
+    "en": "Touch Me Not",
+    "tr": "chhui mui",
+    "hex": "#D98BC0",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Henna Flower",
+    "tr": "mehendi phool",
+    "hex": "#C7B97A",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Neem Flower",
+    "tr": "neem phool",
+    "hex": "#E9EBD5",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Mahua Flower",
+    "tr": "mahua",
+    "hex": "#E9D9A7",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Bottle Brush",
+    "tr": "bottlebrush",
+    "hex": "#C4262E",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Pink Trumpet",
+    "tr": "tabebuia",
+    "hex": "#F0A0C4",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Cassia Pink",
+    "tr": "cassia",
+    "hex": "#EC9DB5",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Rain Lily",
+    "tr": "rain lily",
+    "hex": "#F7E6EE",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Peepal Gold",
+    "tr": "peepal sona",
+    "hex": "#C8B13E",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Banyan Green",
+    "tr": "bargad",
+    "hex": "#3E6A3A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Banyan Aerial",
+    "tr": "bargad jata",
+    "hex": "#8A6F4A",
+    "family": "brown",
+    "cat": "flora"
+  },
+  {
+    "en": "Neem Leaf",
+    "tr": "neem patta",
+    "hex": "#4F8A4A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Mango Blossom",
+    "tr": "aam ka bor",
+    "hex": "#E7E2A6",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Mango Sapling",
+    "tr": "aam ka paudha",
+    "hex": "#B5503A",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Tulsi Dark",
+    "tr": "krishna tulsi",
+    "hex": "#2F5A32",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Bel Patra",
+    "tr": "bel patra",
+    "hex": "#5E8F46",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Durva Grass",
+    "tr": "durva",
+    "hex": "#6FA43F",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Kusha Grass",
+    "tr": "kusha",
+    "hex": "#9DB46A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Bamboo Grove",
+    "tr": "bans",
+    "hex": "#8FA85A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Bamboo Shoot",
+    "tr": "bans kopal",
+    "hex": "#D5DDA0",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Sugarcane Leaf",
+    "tr": "ganna patta",
+    "hex": "#85A540",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Paddy Green",
+    "tr": "dhaan",
+    "hex": "#7CA83F",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Paddy Gold",
+    "tr": "dhaan sona",
+    "hex": "#D9B94A",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Wheat Field",
+    "tr": "gehun khet",
+    "hex": "#DCB655",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Cotton Boll",
+    "tr": "kapas",
+    "hex": "#E6E4DE",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Cotton Stalk",
+    "tr": "kapas dandi",
+    "hex": "#8C7A56",
+    "family": "brown",
+    "cat": "flora"
+  },
+  {
+    "en": "Jute Fibre",
+    "tr": "pat",
+    "hex": "#CFAD6D",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Tea Garden",
+    "tr": "chai bagan",
+    "hex": "#4F7F3A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Coffee Plantation",
+    "tr": "kaapi bagan",
+    "hex": "#3B5E34",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Cardamom Hill",
+    "tr": "elaichi pahad",
+    "hex": "#5E8A4A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Pepper Vine",
+    "tr": "kali mirch bel",
+    "hex": "#3D6B3E",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Areca Palm",
+    "tr": "supari ped",
+    "hex": "#6D8F4A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Coconut Palm",
+    "tr": "nariyal ped",
+    "hex": "#528F3F",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Palmyra",
+    "tr": "tadi",
+    "hex": "#B59B63",
+    "family": "brown",
+    "cat": "flora"
+  },
+  {
+    "en": "Teak Bark",
+    "tr": "sagwan chhal",
+    "hex": "#7A6246",
+    "family": "brown",
+    "cat": "flora"
+  },
+  {
+    "en": "Sandalwood Heart",
+    "tr": "chandan lakdi",
+    "hex": "#C48A4A",
+    "family": "orange",
+    "cat": "flora"
+  },
+  {
+    "en": "Rosewood",
+    "tr": "shisham lal",
+    "hex": "#6A2E24",
+    "family": "brown",
+    "cat": "flora"
+  },
+  {
+    "en": "Ebony Wood",
+    "tr": "abnoos",
+    "hex": "#2A211E",
+    "family": "neutral",
+    "cat": "flora"
+  },
+  {
+    "en": "Deodar",
+    "tr": "deodar",
+    "hex": "#2E5A3C",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Chinar Autumn",
+    "tr": "chinar",
+    "hex": "#C8431C",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Chinar Green",
+    "tr": "chinar hara",
+    "hex": "#5B8A3A",
+    "family": "green",
+    "cat": "flora"
+  },
+  {
+    "en": "Rhododendron",
+    "tr": "burans",
+    "hex": "#D61F3D",
+    "family": "red",
+    "cat": "flora"
+  },
+  {
+    "en": "Brahma Kamal",
+    "tr": "brahma kamal",
+    "hex": "#DAD5C4",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Saffron Crocus",
+    "tr": "kesar phool",
+    "hex": "#9A6FB5",
+    "family": "purple",
+    "cat": "flora"
+  },
+  {
+    "en": "Mustard Field",
+    "tr": "sarson khet",
+    "hex": "#F0C71E",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Mustard Bloom",
+    "tr": "sarson phool",
+    "hex": "#F6D13A",
+    "family": "yellow",
+    "cat": "flora"
+  },
+  {
+    "en": "Linseed Flower",
+    "tr": "alsi phool",
+    "hex": "#6C8FD5",
+    "family": "blue",
+    "cat": "flora"
+  },
+  {
+    "en": "Poppy Field",
+    "tr": "post ka phool",
+    "hex": "#D8294F",
+    "family": "pink",
+    "cat": "flora"
+  },
+  {
+    "en": "Peacock",
+    "tr": "mor",
+    "hex": "#0F7E8C",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Peacock Neck",
+    "tr": "mor gardan",
+    "hex": "#0A6B86",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Peacock Crest",
+    "tr": "mor kalgi",
+    "hex": "#2A8F7E",
+    "family": "green",
+    "cat": "fauna"
+  },
+  {
+    "en": "Peahen",
+    "tr": "morni",
+    "hex": "#8A7A52",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Parakeet",
+    "tr": "tota",
+    "hex": "#7CC14A",
+    "family": "green",
+    "cat": "fauna"
+  },
+  {
+    "en": "Mynah",
+    "tr": "myna",
+    "hex": "#6B4B2E",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Sarus Crane",
+    "tr": "sarus",
+    "hex": "#BFC4C9",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Flamingo",
+    "tr": "rajhans",
+    "hex": "#F59BA0",
+    "family": "pink",
+    "cat": "fauna"
+  },
+  {
+    "en": "Hornbill",
+    "tr": "dhanesh",
+    "hex": "#F2A21A",
+    "family": "orange",
+    "cat": "fauna"
+  },
+  {
+    "en": "Kingfisher Blue",
+    "tr": "machhranga",
+    "hex": "#1B84C9",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Bulbul",
+    "tr": "bulbul",
+    "hex": "#8A7358",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Sunbird",
+    "tr": "shakar khora",
+    "hex": "#8A4FA8",
+    "family": "purple",
+    "cat": "fauna"
+  },
+  {
+    "en": "Swan White",
+    "tr": "hans",
+    "hex": "#F5F4F0",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Heron",
+    "tr": "bagula",
+    "hex": "#A9B4B8",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Tiger Orange",
+    "tr": "baagh",
+    "hex": "#E26A12",
+    "family": "orange",
+    "cat": "fauna"
+  },
+  {
+    "en": "Tiger Stripe",
+    "tr": "baagh dhari",
+    "hex": "#2B1D14",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Leopard Spot",
+    "tr": "tendua",
+    "hex": "#D9A441",
+    "family": "yellow",
+    "cat": "fauna"
+  },
+  {
+    "en": "Elephant Grey",
+    "tr": "haathi",
+    "hex": "#8C8D90",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Lion Mane",
+    "tr": "sher",
+    "hex": "#C48A3C",
+    "family": "orange",
+    "cat": "fauna"
+  },
+  {
+    "en": "Deer Coat",
+    "tr": "hiran",
+    "hex": "#B88455",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Blackbuck",
+    "tr": "krishnasaar",
+    "hex": "#48392B",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Camel Hair",
+    "tr": "unth",
+    "hex": "#C79A5E",
+    "family": "orange",
+    "cat": "fauna"
+  },
+  {
+    "en": "Cow Fawn",
+    "tr": "gai",
+    "hex": "#C8A47A",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Buffalo Black",
+    "tr": "bhains",
+    "hex": "#3A3633",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Himalayan Monal",
+    "tr": "monal",
+    "hex": "#2A6FB0",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Red Panda",
+    "tr": "lal panda",
+    "hex": "#B7491E",
+    "family": "red",
+    "cat": "fauna"
+  },
+  {
+    "en": "Snow Leopard",
+    "tr": "hima tendua",
+    "hex": "#C9CCD0",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Dolphin",
+    "tr": "dolphin",
+    "hex": "#8FA3B3",
+    "family": "blue",
+    "cat": "fauna"
+  },
+  {
+    "en": "Turtle Shell",
+    "tr": "kachhua",
+    "hex": "#5A6B3A",
+    "family": "green",
+    "cat": "fauna"
+  },
+  {
+    "en": "Cobra Hood",
+    "tr": "nag",
+    "hex": "#3D3A2E",
+    "family": "brown",
+    "cat": "fauna"
+  },
+  {
+    "en": "Firefly",
+    "tr": "jugnu",
+    "hex": "#D6E36A",
+    "family": "yellow",
+    "cat": "fauna"
+  },
+  {
+    "en": "Butterfly Orange",
+    "tr": "titli",
+    "hex": "#F78F26",
+    "family": "orange",
+    "cat": "fauna"
+  },
+  {
+    "en": "Honeycomb",
+    "tr": "shahad",
+    "hex": "#EBAC1F",
+    "family": "yellow",
+    "cat": "fauna"
+  },
+  {
+    "en": "Silkworm",
+    "tr": "resham keet",
+    "hex": "#FEF5DB",
+    "family": "yellow",
+    "cat": "fauna"
+  },
+  {
+    "en": "Lac Insect",
+    "tr": "lakh keet",
+    "hex": "#9E1B2A",
+    "family": "red",
+    "cat": "fauna"
+  },
+  {
+    "en": "Pearl Oyster",
+    "tr": "moti sip",
+    "hex": "#EBE7E3",
+    "family": "neutral",
+    "cat": "fauna"
+  },
+  {
+    "en": "Conch Shell",
+    "tr": "shankh",
+    "hex": "#FAEEE0",
+    "family": "orange",
+    "cat": "fauna"
+  },
+  {
+    "en": "Rain Streak",
+    "tr": "barish",
+    "hex": "#8FA6B8",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Rainbow Green",
+    "tr": "indradhanush hara",
+    "hex": "#6BB86A",
+    "family": "green",
+    "cat": "sky"
+  },
+  {
+    "en": "Sunrise Gold",
+    "tr": "suryoday",
+    "hex": "#FFB43A",
+    "family": "orange",
+    "cat": "sky"
+  },
+  {
+    "en": "Sunset Orange",
+    "tr": "suryast",
+    "hex": "#F2631F",
+    "family": "orange",
+    "cat": "sky"
+  },
+  {
+    "en": "Brahma Muhurta",
+    "tr": "brahma muhurta",
+    "hex": "#2D3A6B",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Twilight Violet",
+    "tr": "sandhya",
+    "hex": "#5C4A8F",
+    "family": "purple",
+    "cat": "sky"
+  },
+  {
+    "en": "Full Moon",
+    "tr": "purnima",
+    "hex": "#FFFDE5",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "New Moon",
+    "tr": "amavasya",
+    "hex": "#1C2033",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Crescent Moon",
+    "tr": "chaand",
+    "hex": "#E9E5CB",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Milky Way",
+    "tr": "akashganga",
+    "hex": "#3B4470",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Eclipse",
+    "tr": "grahan",
+    "hex": "#1A1722",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Sky Blue Clear",
+    "tr": "saaf aasman",
+    "hex": "#7DB8E6",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Summer Haze",
+    "tr": "garmi dhund",
+    "hex": "#EDDCAD",
+    "family": "yellow",
+    "cat": "sky"
+  },
+  {
+    "en": "Winter Fog",
+    "tr": "kohra",
+    "hex": "#CFD4D6",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Himalayan Peak",
+    "tr": "himalay",
+    "hex": "#E2E8EE",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Glacier",
+    "tr": "himnad",
+    "hex": "#BCDDEB",
+    "family": "neutral",
+    "cat": "sky"
+  },
+  {
+    "en": "Alpine Lake",
+    "tr": "jheel",
+    "hex": "#3E86A8",
+    "family": "blue",
+    "cat": "sky"
+  },
+  {
+    "en": "Pangong Blue",
+    "tr": "pangong",
+    "hex": "#2F7FB5",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Dal Lake",
+    "tr": "dal jheel",
+    "hex": "#4F8C8E",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Chilika Lagoon",
+    "tr": "chilika",
+    "hex": "#5B97A0",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Backwater Green",
+    "tr": "kayal",
+    "hex": "#4A8B66",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Sundarbans",
+    "tr": "sundarban",
+    "hex": "#2F5B45",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Mangrove",
+    "tr": "mangrove",
+    "hex": "#43603A",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Rann Salt Crust",
+    "tr": "namak",
+    "hex": "#E3DBCE",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Thar Dune",
+    "tr": "thar",
+    "hex": "#E0B574",
+    "family": "orange",
+    "cat": "nature"
+  },
+  {
+    "en": "Thar Dusk",
+    "tr": "thar sandhya",
+    "hex": "#C5834A",
+    "family": "orange",
+    "cat": "nature"
+  },
+  {
+    "en": "Deccan Black Soil",
+    "tr": "kali mitti",
+    "hex": "#3B332D",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Laterite",
+    "tr": "laterite",
+    "hex": "#A7492D",
+    "family": "red",
+    "cat": "nature"
+  },
+  {
+    "en": "Alluvium",
+    "tr": "jalodh",
+    "hex": "#B59F7F",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Ganga Delta",
+    "tr": "ganga delta",
+    "hex": "#8FA58A",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Brahmaputra",
+    "tr": "brahmaputra",
+    "hex": "#6C8A8F",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Godavari",
+    "tr": "godavari",
+    "hex": "#7E9A86",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Kaveri Green",
+    "tr": "kaveri",
+    "hex": "#4D8456",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Narmada Marble",
+    "tr": "narmada",
+    "hex": "#DFE4E7",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Sangam",
+    "tr": "sangam",
+    "hex": "#7FA4A8",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Ghat Steps",
+    "tr": "ghat",
+    "hex": "#B9A58E",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Banaras Dawn",
+    "tr": "kashi subah",
+    "hex": "#F3B89E",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Varanasi Smoke",
+    "tr": "kashi dhuan",
+    "hex": "#9C9087",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Hampi Boulder",
+    "tr": "hampi",
+    "hex": "#B99A78",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Ellora Basalt",
+    "tr": "ellora",
+    "hex": "#6D655C",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Khajuraho Sand",
+    "tr": "khajuraho",
+    "hex": "#D8B995",
+    "family": "orange",
+    "cat": "nature"
+  },
+  {
+    "en": "Sanchi Stone",
+    "tr": "sanchi",
+    "hex": "#C9B79A",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Fatehpur Red",
+    "tr": "fatehpur",
+    "hex": "#B9462D",
+    "family": "red",
+    "cat": "nature"
+  },
+  {
+    "en": "Amer Fort",
+    "tr": "amer",
+    "hex": "#E1A878",
+    "family": "orange",
+    "cat": "nature"
+  },
+  {
+    "en": "Jaisalmer Gold",
+    "tr": "jaisalmer",
+    "hex": "#E0B26B",
+    "family": "orange",
+    "cat": "nature"
+  },
+  {
+    "en": "Jaipur Pink",
+    "tr": "jaipur",
+    "hex": "#E8A0A0",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Udaipur Lake",
+    "tr": "udaipur",
+    "hex": "#6A97A8",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Bundi Blue",
+    "tr": "bundi",
+    "hex": "#5C86B5",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Chanderi Sky",
+    "tr": "chanderi aasman",
+    "hex": "#ADC8DC",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Darjeeling Mist",
+    "tr": "darjeeling dhund",
+    "hex": "#C9D6CE",
+    "family": "neutral",
+    "cat": "nature"
+  },
+  {
+    "en": "Sikkim Prayer Flag",
+    "tr": "sikkim",
+    "hex": "#D3392D",
+    "family": "red",
+    "cat": "nature"
+  },
+  {
+    "en": "Kaziranga Grass",
+    "tr": "kaziranga",
+    "hex": "#94AB59",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Munnar Mist",
+    "tr": "munnar",
+    "hex": "#8FB59A",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Andaman Sea",
+    "tr": "andaman",
+    "hex": "#1FA5B5",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Lakshadweep Lagoon",
+    "tr": "lakshadweep",
+    "hex": "#52C2C4",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Goa Sand",
+    "tr": "goa",
+    "hex": "#EBD7B4",
+    "family": "yellow",
+    "cat": "nature"
+  },
+  {
+    "en": "Rameswaram Shore",
+    "tr": "rameswaram",
+    "hex": "#7FBFC7",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Kanyakumari Sunrise",
+    "tr": "kanyakumari",
+    "hex": "#F59A52",
+    "family": "orange",
+    "cat": "nature"
+  },
+  {
+    "en": "Kutch Mirror",
+    "tr": "kutch",
+    "hex": "#8FA3D6",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Spiti Valley",
+    "tr": "spiti",
+    "hex": "#CDBDA0",
+    "family": "yellow",
+    "cat": "nature"
+  },
+  {
+    "en": "Zanskar Ice",
+    "tr": "zanskar",
+    "hex": "#A7D0E0",
+    "family": "blue",
+    "cat": "nature"
+  },
+  {
+    "en": "Valley of Flowers",
+    "tr": "phoolon ki ghati",
+    "hex": "#C46FA8",
+    "family": "pink",
+    "cat": "nature"
+  },
+  {
+    "en": "Western Ghats",
+    "tr": "sahyadri",
+    "hex": "#3C6B4A",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Eastern Ghats",
+    "tr": "purvi ghat",
+    "hex": "#5E7F4F",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Sahyadri Rain",
+    "tr": "sahyadri barish",
+    "hex": "#5A8A7C",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Nallamala",
+    "tr": "nallamala",
+    "hex": "#43563B",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Bastar Forest",
+    "tr": "bastar",
+    "hex": "#3E5B35",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Gir Forest",
+    "tr": "gir",
+    "hex": "#8A8F4A",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Jim Corbett",
+    "tr": "corbett",
+    "hex": "#5A6F3D",
+    "family": "green",
+    "cat": "nature"
+  },
+  {
+    "en": "Ranthambore",
+    "tr": "ranthambore",
+    "hex": "#AB8F58",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Bandhavgarh",
+    "tr": "bandhavgarh",
+    "hex": "#7B6B3F",
+    "family": "brown",
+    "cat": "nature"
+  },
+  {
+    "en": "Manik",
+    "tr": "manik",
+    "hex": "#BB142E",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Pukhraj",
+    "tr": "pukhraj",
+    "hex": "#F0B427",
+    "family": "yellow",
+    "cat": "gem"
+  },
+  {
+    "en": "Panna",
+    "tr": "panna",
+    "hex": "#0B7F4F",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Heera",
+    "tr": "heera",
+    "hex": "#EFF1F5",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Moti",
+    "tr": "moti",
+    "hex": "#E2DED8",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Moonga",
+    "tr": "moonga",
+    "hex": "#D8402F",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Gomed",
+    "tr": "gomed",
+    "hex": "#B7621F",
+    "family": "brown",
+    "cat": "gem"
+  },
+  {
+    "en": "Lehsunia",
+    "tr": "lehsunia",
+    "hex": "#A8A45E",
+    "family": "brown",
+    "cat": "gem"
+  },
+  {
+    "en": "Navratna Red",
+    "tr": "navratna lal",
+    "hex": "#A51E36",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Kundan Gold",
+    "tr": "kundan",
+    "hex": "#E3B346",
+    "family": "yellow",
+    "cat": "gem"
+  },
+  {
+    "en": "Polki",
+    "tr": "polki",
+    "hex": "#D3CEBF",
+    "family": "yellow",
+    "cat": "gem"
+  },
+  {
+    "en": "Meenakari Blue",
+    "tr": "meenakari neela",
+    "hex": "#1D6FA5",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Meenakari Green",
+    "tr": "meenakari hara",
+    "hex": "#208C5D",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Meenakari Pink",
+    "tr": "meenakari gulabi",
+    "hex": "#D6407F",
+    "family": "pink",
+    "cat": "gem"
+  },
+  {
+    "en": "Lac Bangle Red",
+    "tr": "lakh churi",
+    "hex": "#A3152A",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Glass Bangle Green",
+    "tr": "kaanch churi",
+    "hex": "#2C9B5B",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Glass Bangle Blue",
+    "tr": "kaanch neeli",
+    "hex": "#2F6FC0",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Glass Bangle Pink",
+    "tr": "kaanch gulabi",
+    "hex": "#E56BA0",
+    "family": "pink",
+    "cat": "gem"
+  },
+  {
+    "en": "Mangalsutra Black",
+    "tr": "kale moti",
+    "hex": "#1E1A1A",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Nath Pearl",
+    "tr": "nath moti",
+    "hex": "#E9E2D9",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Tika Ruby",
+    "tr": "tika",
+    "hex": "#B01C3A",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Jade Green",
+    "tr": "yashab",
+    "hex": "#4FA67E",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Serpentine",
+    "tr": "sarpa patthar",
+    "hex": "#6A9A63",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Tiger Eye",
+    "tr": "baagh netra",
+    "hex": "#9A6A1E",
+    "family": "brown",
+    "cat": "gem"
+  },
+  {
+    "en": "Cat Eye",
+    "tr": "billi aankh",
+    "hex": "#8A9A3A",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Onyx",
+    "tr": "sulemani",
+    "hex": "#222024",
+    "family": "neutral",
+    "cat": "gem"
+  },
+  {
+    "en": "Sardonyx",
+    "tr": "sardonyx",
+    "hex": "#A8512E",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Amber Resin",
+    "tr": "kaharuba",
+    "hex": "#E39A1F",
+    "family": "orange",
+    "cat": "gem"
+  },
+  {
+    "en": "Coral Branch",
+    "tr": "moonga shakha",
+    "hex": "#E55B4A",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Turquoise Stone",
+    "tr": "firoza",
+    "hex": "#3FB5AE",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Lapis Deep",
+    "tr": "lajward",
+    "hex": "#1E3A8A",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Kyanite",
+    "tr": "kyanite",
+    "hex": "#3B7DBE",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Peridot",
+    "tr": "zabarjad",
+    "hex": "#A3C93A",
+    "family": "green",
+    "cat": "gem"
+  },
+  {
+    "en": "Spinel",
+    "tr": "laal spinel",
+    "hex": "#C5283D",
+    "family": "red",
+    "cat": "gem"
+  },
+  {
+    "en": "Alexandrite",
+    "tr": "alexandrite",
+    "hex": "#4F7F78",
+    "family": "blue",
+    "cat": "gem"
+  },
+  {
+    "en": "Rose Gold",
+    "tr": "gulabi sona",
+    "hex": "#D9A090",
+    "family": "red",
+    "cat": "metal"
+  },
+  {
+    "en": "Yellow Gold",
+    "tr": "peela sona",
+    "hex": "#EFC140",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "White Gold",
+    "tr": "safed sona",
+    "hex": "#D9D6CC",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Silver Anklet",
+    "tr": "paayal",
+    "hex": "#CED2D7",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Gold Leaf Varq",
+    "tr": "sona varq",
+    "hex": "#F0CC5C",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Brass Lamp",
+    "tr": "peetal diya",
+    "hex": "#C49A2B",
+    "family": "yellow",
+    "cat": "metal"
+  },
+  {
+    "en": "Bell Metal",
+    "tr": "kansa",
+    "hex": "#B8803A",
+    "family": "orange",
+    "cat": "metal"
+  },
+  {
+    "en": "Copper Vessel",
+    "tr": "taamba",
+    "hex": "#B7653B",
+    "family": "red",
+    "cat": "metal"
+  },
+  {
+    "en": "Copper Patina",
+    "tr": "taamba jang",
+    "hex": "#5B9A8B",
+    "family": "green",
+    "cat": "metal"
+  },
+  {
+    "en": "Bidriware",
+    "tr": "bidri",
+    "hex": "#2C2E33",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Pewter",
+    "tr": "pewter",
+    "hex": "#8F9498",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Tin",
+    "tr": "ranga",
+    "hex": "#B4B8BC",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Iron Gate",
+    "tr": "loha",
+    "hex": "#4A4A4C",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Steel Thali",
+    "tr": "steel",
+    "hex": "#AEB2B5",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Zinc",
+    "tr": "jasta",
+    "hex": "#AEB6BC",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Mercury",
+    "tr": "paara",
+    "hex": "#BBBEC2",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Lead",
+    "tr": "seesa",
+    "hex": "#6E7378",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Cast Iron",
+    "tr": "dhalwan loha",
+    "hex": "#3E3F42",
+    "family": "neutral",
+    "cat": "metal"
+  },
+  {
+    "en": "Temple Bronze",
+    "tr": "mandir kaansa",
+    "hex": "#906E3D",
+    "family": "brown",
+    "cat": "metal"
+  },
+  {
+    "en": "Panchaloha",
+    "tr": "panchaloha",
+    "hex": "#B08848",
+    "family": "brown",
+    "cat": "metal"
+  },
+  {
+    "en": "Zari Gold",
+    "tr": "zari",
+    "hex": "#D6A93F",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Kanjivaram Magenta",
+    "tr": "kanchi magenta",
+    "hex": "#B01C6C",
+    "family": "purple",
+    "cat": "textile"
+  },
+  {
+    "en": "Kanjivaram Green",
+    "tr": "kanchi hara",
+    "hex": "#1F6B4F",
+    "family": "green",
+    "cat": "textile"
+  },
+  {
+    "en": "Kanjivaram Mustard",
+    "tr": "kanchi sarson",
+    "hex": "#D0A12A",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Kanjivaram Maroon",
+    "tr": "kanchi maroon",
+    "hex": "#6E1A2B",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Banarasi Gold",
+    "tr": "banarasi sona",
+    "hex": "#D3A64B",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Banarasi Blue",
+    "tr": "banarasi neela",
+    "hex": "#1B3F7B",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Banarasi Green",
+    "tr": "banarasi hara",
+    "hex": "#1F6B3F",
+    "family": "green",
+    "cat": "textile"
+  },
+  {
+    "en": "Paithani Purple",
+    "tr": "paithani",
+    "hex": "#6B2A82",
+    "family": "purple",
+    "cat": "textile"
+  },
+  {
+    "en": "Paithani Peacock",
+    "tr": "paithani mor",
+    "hex": "#0B6F7B",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Patola Red",
+    "tr": "patola lal",
+    "hex": "#B3182E",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Patola Green",
+    "tr": "patola hara",
+    "hex": "#2A7A4B",
+    "family": "green",
+    "cat": "textile"
+  },
+  {
+    "en": "Ikat Indigo",
+    "tr": "ikat neel",
+    "hex": "#243B6B",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Ikat Red",
+    "tr": "ikat lal",
+    "hex": "#A5252E",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Pochampally",
+    "tr": "pochampally",
+    "hex": "#C23B52",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Chanderi Cream",
+    "tr": "chanderi",
+    "hex": "#F6EACE",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Maheshwari Teal",
+    "tr": "maheshwari",
+    "hex": "#1F8A8A",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Bandhej Orange",
+    "tr": "bandhej",
+    "hex": "#E2681E",
+    "family": "orange",
+    "cat": "textile"
+  },
+  {
+    "en": "Bandhej Yellow",
+    "tr": "bandhej peela",
+    "hex": "#EDB82A",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Bandhej Pink",
+    "tr": "bandhej gulabi",
+    "hex": "#E04F8B",
+    "family": "pink",
+    "cat": "textile"
+  },
+  {
+    "en": "Leheriya Green",
+    "tr": "leheriya",
+    "hex": "#3E9A5F",
+    "family": "green",
+    "cat": "textile"
+  },
+  {
+    "en": "Leheriya Turquoise",
+    "tr": "leheriya firoza",
+    "hex": "#1FA7A0",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Tussar Silk",
+    "tr": "tussar",
+    "hex": "#D1B27A",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Muga Silk",
+    "tr": "muga",
+    "hex": "#DFA944",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Eri Silk",
+    "tr": "eri",
+    "hex": "#E3D5B9",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Pashmina Cream",
+    "tr": "pashmina",
+    "hex": "#EBDFC9",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Kashmiri Shawl Red",
+    "tr": "shawl lal",
+    "hex": "#B23A32",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Kani Weave",
+    "tr": "kani",
+    "hex": "#6F3B5A",
+    "family": "purple",
+    "cat": "textile"
+  },
+  {
+    "en": "Phulkari Magenta",
+    "tr": "phulkari magenta",
+    "hex": "#C91E78",
+    "family": "pink",
+    "cat": "textile"
+  },
+  {
+    "en": "Phulkari Green",
+    "tr": "phulkari hara",
+    "hex": "#3F8F4A",
+    "family": "green",
+    "cat": "textile"
+  },
+  {
+    "en": "Kantha Cream",
+    "tr": "kantha",
+    "hex": "#DFD4BB",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Kantha Thread Blue",
+    "tr": "kantha neela",
+    "hex": "#2B5C9E",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Baluchari Maroon",
+    "tr": "baluchari",
+    "hex": "#7A1F2C",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Sambalpuri Red",
+    "tr": "sambalpuri",
+    "hex": "#B52A2A",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Sambalpuri Black",
+    "tr": "sambalpuri kala",
+    "hex": "#2A2323",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Bomkai",
+    "tr": "bomkai",
+    "hex": "#C0432A",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Kalamkari Indigo",
+    "tr": "kalamkari neel",
+    "hex": "#2D3F6E",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Gadwal",
+    "tr": "gadwal",
+    "hex": "#8A2A58",
+    "family": "purple",
+    "cat": "textile"
+  },
+  {
+    "en": "Kuthampully",
+    "tr": "kuthampully",
+    "hex": "#FFF8DB",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Kasavu Gold",
+    "tr": "kasavu sona",
+    "hex": "#DBB546",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Mundu White",
+    "tr": "mundu",
+    "hex": "#E4E2D9",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Kerala Set Mundu",
+    "tr": "set mundu",
+    "hex": "#FFFAE0",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Chettinad Cotton Red",
+    "tr": "chettinad",
+    "hex": "#B2331F",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Chettinad Cotton Black",
+    "tr": "chettinad kala",
+    "hex": "#21201F",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Kornad",
+    "tr": "kornad",
+    "hex": "#2E7A5E",
+    "family": "green",
+    "cat": "textile"
+  },
+  {
+    "en": "Madurai Sungudi",
+    "tr": "sungudi",
+    "hex": "#D2461E",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Mysore Crepe",
+    "tr": "mysore crepe",
+    "hex": "#9B2A5F",
+    "family": "purple",
+    "cat": "textile"
+  },
+  {
+    "en": "Ilkal",
+    "tr": "ilkal",
+    "hex": "#8F2C34",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Khun Fabric",
+    "tr": "khun",
+    "hex": "#C9A455",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Bagru Block",
+    "tr": "bagru",
+    "hex": "#915F3E",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Dabu Mud Resist",
+    "tr": "dabu",
+    "hex": "#6F5A45",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Ajrakh Black",
+    "tr": "ajrakh kala",
+    "hex": "#2C2624",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Sanganeri",
+    "tr": "sanganeri",
+    "hex": "#D07C92",
+    "family": "pink",
+    "cat": "textile"
+  },
+  {
+    "en": "Kantha Red Thread",
+    "tr": "kantha lal",
+    "hex": "#C23B3B",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Bhujodi",
+    "tr": "bhujodi",
+    "hex": "#B6A58B",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Kachchh Embroidery Pink",
+    "tr": "kutchi gulabi",
+    "hex": "#E04585",
+    "family": "pink",
+    "cat": "textile"
+  },
+  {
+    "en": "Kachchh Embroidery Orange",
+    "tr": "kutchi narangi",
+    "hex": "#F68022",
+    "family": "orange",
+    "cat": "textile"
+  },
+  {
+    "en": "Lambani Mirror",
+    "tr": "lambani",
+    "hex": "#2F6A8A",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Naga Shawl Red",
+    "tr": "naga shawl",
+    "hex": "#B4262C",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Mekhela Gold",
+    "tr": "mekhela",
+    "hex": "#CC9F38",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Pat Silk",
+    "tr": "pat resham",
+    "hex": "#D0A24A",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Gamosa Red",
+    "tr": "gamosa",
+    "hex": "#C32424",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Khadi Natural",
+    "tr": "khadi",
+    "hex": "#DCCFB1",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Handloom Grey",
+    "tr": "handloom",
+    "hex": "#B2AEA4",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Dhoti Border Maroon",
+    "tr": "dhoti kinara",
+    "hex": "#7E2331",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Angavastram",
+    "tr": "angavastram",
+    "hex": "#F7E9BE",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Dupatta Rose",
+    "tr": "dupatta",
+    "hex": "#E88AA5",
+    "family": "pink",
+    "cat": "textile"
+  },
+  {
+    "en": "Odhni Yellow",
+    "tr": "odhni",
+    "hex": "#EEC02E",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Pagri Saffron",
+    "tr": "pagri",
+    "hex": "#F37B20",
+    "family": "orange",
+    "cat": "textile"
+  },
+  {
+    "en": "Safa Red",
+    "tr": "safa",
+    "hex": "#C7232C",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Kurta Cream",
+    "tr": "kurta",
+    "hex": "#FEF3DC",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Bandi Black",
+    "tr": "bandi",
+    "hex": "#232021",
+    "family": "neutral",
+    "cat": "textile"
+  },
+  {
+    "en": "Lungi Check Blue",
+    "tr": "lungi",
+    "hex": "#2A5AA0",
+    "family": "blue",
+    "cat": "textile"
+  },
+  {
+    "en": "Gamcha Check",
+    "tr": "gamcha",
+    "hex": "#B83A2E",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Chunri Red",
+    "tr": "chunri",
+    "hex": "#BF1D2A",
+    "family": "red",
+    "cat": "textile"
+  },
+  {
+    "en": "Sherwani Ivory",
+    "tr": "sherwani",
+    "hex": "#DFD5C2",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Jutti Tan",
+    "tr": "jutti",
+    "hex": "#B88450",
+    "family": "brown",
+    "cat": "textile"
+  },
+  {
+    "en": "Mojari Gold",
+    "tr": "mojari",
+    "hex": "#C9A04F",
+    "family": "yellow",
+    "cat": "textile"
+  },
+  {
+    "en": "Sindoor Box",
+    "tr": "sindoor dabbi",
+    "hex": "#C32B1E",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Alta Red",
+    "tr": "alta",
+    "hex": "#D3202B",
+    "family": "red",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Mehendi Fresh",
+    "tr": "mehendi taza",
+    "hex": "#7C8A3C",
+    "family": "green",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Mehendi Stain",
+    "tr": "mehendi rang",
+    "hex": "#8A3F1F",
+    "family": "brown",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Kajal",
+    "tr": "kajal",
+    "hex": "#1A1617",
+    "family": "neutral",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Surma",
+    "tr": "surma",
+    "hex": "#312C30",
+    "family": "neutral",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Bindi Red",
+    "tr": "bindi",
+    "hex": "#CB1929",
+    "family": "red",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Bindi Maroon",
+    "tr": "bindi maroon",
+    "hex": "#7B1426",
+    "family": "red",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Lac Dye Lip",
+    "tr": "laakh lip",
+    "hex": "#B01B32",
+    "family": "red",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Kumkum Pink",
+    "tr": "kumkum gulabi",
+    "hex": "#D84F6A",
+    "family": "pink",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Multani Mitti",
+    "tr": "multani mitti",
+    "hex": "#D6C09C",
+    "family": "brown",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Rose Water Pink",
+    "tr": "gulab jal",
+    "hex": "#F3C9CE",
+    "family": "pink",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Attar",
+    "tr": "attar",
+    "hex": "#C99A5B",
+    "family": "orange",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Sandal Tilak",
+    "tr": "chandan tilak",
+    "hex": "#E2B97E",
+    "family": "orange",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Neem Paste",
+    "tr": "neem lep",
+    "hex": "#7B9A4E",
+    "family": "green",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Amla Oil",
+    "tr": "amla tel",
+    "hex": "#8D8A3D",
+    "family": "brown",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Coconut Oil",
+    "tr": "nariyal tel",
+    "hex": "#FFFFEB",
+    "family": "neutral",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Shikakai",
+    "tr": "shikakai",
+    "hex": "#947342",
+    "family": "brown",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Reetha",
+    "tr": "reetha",
+    "hex": "#B29467",
+    "family": "brown",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Hair Henna",
+    "tr": "bal mehendi",
+    "hex": "#9A4B22",
+    "family": "red",
+    "cat": "cosmetic"
+  },
+  {
+    "en": "Hingul",
+    "tr": "hingul",
+    "hex": "#D53129",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Sindoor Vermilion",
+    "tr": "sindur",
+    "hex": "#E13A20",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Geru",
+    "tr": "geru",
+    "hex": "#C0562F",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Haldi Powder",
+    "tr": "haldi",
+    "hex": "#EDB21C",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gulal Magenta",
+    "tr": "gulal magenta",
+    "hex": "#D4207A",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gulal Green",
+    "tr": "gulal hara",
+    "hex": "#3FAE4A",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gulal Blue",
+    "tr": "gulal neela",
+    "hex": "#2C6FD0",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gulal Yellow",
+    "tr": "gulal peela",
+    "hex": "#F6CF1E",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gulal Orange",
+    "tr": "gulal narangi",
+    "hex": "#F48A1E",
+    "family": "orange",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gulal Violet",
+    "tr": "gulal baingani",
+    "hex": "#8A3FB8",
+    "family": "purple",
+    "cat": "pigment"
+  },
+  {
+    "en": "Abir",
+    "tr": "abir",
+    "hex": "#E04A4A",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kesari Gulal",
+    "tr": "kesari gulal",
+    "hex": "#ED881A",
+    "family": "orange",
+    "cat": "pigment"
+  },
+  {
+    "en": "Manahshila",
+    "tr": "manahshila",
+    "hex": "#E27B22",
+    "family": "orange",
+    "cat": "pigment"
+  },
+  {
+    "en": "Sangraf",
+    "tr": "sangraf",
+    "hex": "#B83A2A",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Neel Pigment",
+    "tr": "neel rang",
+    "hex": "#2B3A8F",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Prussian Blue Pigment",
+    "tr": "prussian",
+    "hex": "#143A64",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kajjal Soot",
+    "tr": "kajjal",
+    "hex": "#2B2627",
+    "family": "neutral",
+    "cat": "pigment"
+  },
+  {
+    "en": "Diya Soot",
+    "tr": "diya kajal",
+    "hex": "#312B29",
+    "family": "neutral",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gopichandan",
+    "tr": "gopichandan",
+    "hex": "#EFE6B8",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Bhasma Ash",
+    "tr": "bhasma",
+    "hex": "#C7C3BB",
+    "family": "neutral",
+    "cat": "pigment"
+  },
+  {
+    "en": "Vibhuti",
+    "tr": "vibhuti",
+    "hex": "#E0DCD3",
+    "family": "neutral",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder White",
+    "tr": "rangoli safed",
+    "hex": "#EEECE7",
+    "family": "neutral",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder Red",
+    "tr": "rangoli lal",
+    "hex": "#D82A2A",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder Yellow",
+    "tr": "rangoli peela",
+    "hex": "#F8C520",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder Green",
+    "tr": "rangoli hara",
+    "hex": "#2FA04B",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder Blue",
+    "tr": "rangoli neela",
+    "hex": "#2F78D2",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder Orange",
+    "tr": "rangoli narangi",
+    "hex": "#FA821F",
+    "family": "orange",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder Pink",
+    "tr": "rangoli gulabi",
+    "hex": "#E85A9A",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rangoli Powder Purple",
+    "tr": "rangoli jamuni",
+    "hex": "#7C3DB0",
+    "family": "purple",
+    "cat": "pigment"
+  },
+  {
+    "en": "Madhubani Yellow",
+    "tr": "madhubani peela",
+    "hex": "#E8B520",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Madhubani Blue",
+    "tr": "madhubani neela",
+    "hex": "#2E5FA5",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Warli White",
+    "tr": "warli",
+    "hex": "#F1EDE1",
+    "family": "neutral",
+    "cat": "pigment"
+  },
+  {
+    "en": "Warli Mud Wall",
+    "tr": "warli deewar",
+    "hex": "#8F4F32",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gond Pink",
+    "tr": "gond gulabi",
+    "hex": "#E7538F",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gond Yellow",
+    "tr": "gond peela",
+    "hex": "#F2BC2A",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Gond Teal",
+    "tr": "gond",
+    "hex": "#1F8F86",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kalighat Pink",
+    "tr": "kalighat",
+    "hex": "#D6577E",
+    "family": "pink",
+    "cat": "pigment"
+  },
+  {
+    "en": "Phad Red",
+    "tr": "phad",
+    "hex": "#A9262A",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Pichwai Green",
+    "tr": "pichwai hara",
+    "hex": "#2A7A55",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Thangka Gold",
+    "tr": "thangka",
+    "hex": "#DCAD40",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Thangka Vermilion",
+    "tr": "thangka lal",
+    "hex": "#CC2F1E",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Mughal Miniature Red",
+    "tr": "mughal lal",
+    "hex": "#A8222B",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Mughal Miniature Green",
+    "tr": "mughal hara",
+    "hex": "#2D6A4B",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Mughal Miniature Blue",
+    "tr": "mughal neela",
+    "hex": "#2B4C8F",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Pahari Ochre",
+    "tr": "pahari",
+    "hex": "#CC8F2B",
+    "family": "orange",
+    "cat": "pigment"
+  },
+  {
+    "en": "Rajput Yellow",
+    "tr": "rajput peela",
+    "hex": "#E9B52E",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Ajanta Red",
+    "tr": "ajanta lal",
+    "hex": "#A4372A",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Ajanta Green",
+    "tr": "ajanta hara",
+    "hex": "#4F7A55",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Ajanta Lapis",
+    "tr": "ajanta neela",
+    "hex": "#24408C",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Lepakshi Mural",
+    "tr": "lepakshi",
+    "hex": "#B4532D",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Tanjore Gold",
+    "tr": "tanjore sona",
+    "hex": "#DFAA30",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Tanjore Red",
+    "tr": "tanjore lal",
+    "hex": "#B8252D",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Tanjore Blue",
+    "tr": "tanjore neela",
+    "hex": "#2B4D9A",
+    "family": "blue",
+    "cat": "pigment"
+  },
+  {
+    "en": "Tanjore Green",
+    "tr": "tanjore hara",
+    "hex": "#2E6F46",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kerala Mural Red",
+    "tr": "kerala bhitti lal",
+    "hex": "#C63B2C",
+    "family": "red",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kerala Mural Green",
+    "tr": "kerala bhitti hara",
+    "hex": "#3D8A4F",
+    "family": "green",
+    "cat": "pigment"
+  },
+  {
+    "en": "Kerala Mural Yellow",
+    "tr": "kerala bhitti peela",
+    "hex": "#E7B225",
+    "family": "yellow",
+    "cat": "pigment"
+  },
+  {
+    "en": "Indigo Cake",
+    "tr": "neel tikki",
+    "hex": "#26327A",
+    "family": "blue",
+    "cat": "dye"
+  },
+  {
+    "en": "Indigo Vat",
+    "tr": "neel kund",
+    "hex": "#1F2B66",
+    "family": "blue",
+    "cat": "dye"
+  },
+  {
+    "en": "Indigo Pale",
+    "tr": "neel halka",
+    "hex": "#6F82C0",
+    "family": "blue",
+    "cat": "dye"
+  },
+  {
+    "en": "Madder Red",
+    "tr": "manjishtha",
+    "hex": "#A32D33",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Madder Rose",
+    "tr": "manjishtha gulabi",
+    "hex": "#C86574",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Kermes",
+    "tr": "kirmiz",
+    "hex": "#B4202F",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Cochineal",
+    "tr": "cochineal",
+    "hex": "#8F1C37",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Turmeric Dye",
+    "tr": "haldi rang",
+    "hex": "#E7B018",
+    "family": "yellow",
+    "cat": "dye"
+  },
+  {
+    "en": "Pomegranate Rind",
+    "tr": "anar chhilka",
+    "hex": "#BB7C2B",
+    "family": "orange",
+    "cat": "dye"
+  },
+  {
+    "en": "Myrobalan",
+    "tr": "harad",
+    "hex": "#B59B58",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Harda Yellow",
+    "tr": "harda peela",
+    "hex": "#D4B445",
+    "family": "yellow",
+    "cat": "dye"
+  },
+  {
+    "en": "Iron Black",
+    "tr": "loha kala",
+    "hex": "#2A2929",
+    "family": "neutral",
+    "cat": "dye"
+  },
+  {
+    "en": "Catechu",
+    "tr": "kattha",
+    "hex": "#7F4A2B",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Kattha Brown",
+    "tr": "kattha bhura",
+    "hex": "#8A5632",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Bark Brown",
+    "tr": "chhal",
+    "hex": "#8A6742",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Onion Skin",
+    "tr": "pyaaz chhilka",
+    "hex": "#D2913E",
+    "family": "orange",
+    "cat": "dye"
+  },
+  {
+    "en": "Marigold Dye",
+    "tr": "genda rang",
+    "hex": "#EDA51F",
+    "family": "yellow",
+    "cat": "dye"
+  },
+  {
+    "en": "Palash Dye",
+    "tr": "tesu rang",
+    "hex": "#F29A2B",
+    "family": "orange",
+    "cat": "dye"
+  },
+  {
+    "en": "Henna Dye",
+    "tr": "mehendi rang",
+    "hex": "#9D5A2A",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Walnut Hull",
+    "tr": "akhrot chhilka",
+    "hex": "#503E2D",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Tea Dye",
+    "tr": "chai rang",
+    "hex": "#A8744A",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Jamun Dye",
+    "tr": "jamun rang",
+    "hex": "#5B2E5E",
+    "family": "purple",
+    "cat": "dye"
+  },
+  {
+    "en": "Katha Red",
+    "tr": "katha lal",
+    "hex": "#9C3A2A",
+    "family": "red",
+    "cat": "dye"
+  },
+  {
+    "en": "Annatto",
+    "tr": "sindur bij",
+    "hex": "#E4701E",
+    "family": "orange",
+    "cat": "dye"
+  },
+  {
+    "en": "Safflower Pink",
+    "tr": "kusum",
+    "hex": "#E8567A",
+    "family": "pink",
+    "cat": "dye"
+  },
+  {
+    "en": "Tesu Saffron",
+    "tr": "tesu kesari",
+    "hex": "#F3A02E",
+    "family": "orange",
+    "cat": "dye"
+  },
+  {
+    "en": "Tamarisk",
+    "tr": "jhau",
+    "hex": "#9C8A5E",
+    "family": "brown",
+    "cat": "dye"
+  },
+  {
+    "en": "Ash Grey",
+    "tr": "raakh",
+    "hex": "#A9A59C",
+    "family": "neutral",
+    "cat": "dye"
+  },
+  {
+    "en": "Diya Wick",
+    "tr": "batti",
+    "hex": "#D9A85A",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Diwali Night",
+    "tr": "diwali raat",
+    "hex": "#14183A",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Sparkler",
+    "tr": "phooljhadi",
+    "hex": "#F6D56A",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Toran Mango Leaf",
+    "tr": "toran patta",
+    "hex": "#3F8F3A",
+    "family": "green",
+    "cat": "ritual"
+  },
+  {
+    "en": "Toran Marigold",
+    "tr": "toran genda",
+    "hex": "#F3AA1F",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Kalash Copper",
+    "tr": "kalash",
+    "hex": "#B56D3E",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Kalash Coconut",
+    "tr": "kalash nariyal",
+    "hex": "#805F3C",
+    "family": "brown",
+    "cat": "ritual"
+  },
+  {
+    "en": "Puja Plate",
+    "tr": "puja thali",
+    "hex": "#D5A44A",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Aarti Flame",
+    "tr": "aarti",
+    "hex": "#FCA830",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Havan Ember",
+    "tr": "havan angaar",
+    "hex": "#E7581F",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Incense Ash",
+    "tr": "agarbatti raakh",
+    "hex": "#C0BAAF",
+    "family": "neutral",
+    "cat": "ritual"
+  },
+  {
+    "en": "Incense Stick",
+    "tr": "agarbatti",
+    "hex": "#B07A45",
+    "family": "brown",
+    "cat": "ritual"
+  },
+  {
+    "en": "Dhoop",
+    "tr": "dhoop",
+    "hex": "#7E6C57",
+    "family": "brown",
+    "cat": "ritual"
+  },
+  {
+    "en": "Camphor",
+    "tr": "kapoor",
+    "hex": "#EEF0ED",
+    "family": "neutral",
+    "cat": "ritual"
+  },
+  {
+    "en": "Tulsi Mala",
+    "tr": "tulsi mala",
+    "hex": "#917E58",
+    "family": "brown",
+    "cat": "ritual"
+  },
+  {
+    "en": "Shiva Ash Blue",
+    "tr": "neelkanth",
+    "hex": "#3C4FA5",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Krishna Peacock Feather",
+    "tr": "mor pankh",
+    "hex": "#1B7F8F",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Radha Pink",
+    "tr": "radha",
+    "hex": "#EC7BA6",
+    "family": "pink",
+    "cat": "ritual"
+  },
+  {
+    "en": "Rama Cloud",
+    "tr": "ram megh",
+    "hex": "#4F73B8",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Hanuman Vermilion",
+    "tr": "hanuman sindoor",
+    "hex": "#E73F21",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Durga Red",
+    "tr": "durga",
+    "hex": "#CA212B",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Lakshmi Pink",
+    "tr": "lakshmi gulabi",
+    "hex": "#E86A9A",
+    "family": "pink",
+    "cat": "ritual"
+  },
+  {
+    "en": "Lakshmi Gold",
+    "tr": "lakshmi sona",
+    "hex": "#E6B33B",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Kali Black",
+    "tr": "kali",
+    "hex": "#1C181B",
+    "family": "neutral",
+    "cat": "ritual"
+  },
+  {
+    "en": "Buddha Saffron",
+    "tr": "buddha",
+    "hex": "#E57A1D",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Digambara Sky",
+    "tr": "digambar",
+    "hex": "#C7D6E6",
+    "family": "neutral",
+    "cat": "ritual"
+  },
+  {
+    "en": "Sikh Kesri",
+    "tr": "kesri",
+    "hex": "#F38C13",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Khalsa Blue",
+    "tr": "khalsa neela",
+    "hex": "#1F3F9A",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Dastar Navy",
+    "tr": "dastar",
+    "hex": "#1F2F6B",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Mosque Green",
+    "tr": "masjid hara",
+    "hex": "#1B7A4D",
+    "family": "green",
+    "cat": "ritual"
+  },
+  {
+    "en": "Mosque Dome Teal",
+    "tr": "gumbad",
+    "hex": "#1D8A82",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Church Window Blue",
+    "tr": "girja neela",
+    "hex": "#2A52A8",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Tibetan Prayer Flag Blue",
+    "tr": "lungta neela",
+    "hex": "#2A6FC4",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Tibetan Prayer Flag Red",
+    "tr": "lungta lal",
+    "hex": "#CB2728",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Tibetan Prayer Flag Yellow",
+    "tr": "lungta peela",
+    "hex": "#ECBF1D",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Pongal Pot",
+    "tr": "pongal paanai",
+    "hex": "#B5622F",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Onam Pookalam Yellow",
+    "tr": "pookalam",
+    "hex": "#F4B81E",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Onam Pookalam Red",
+    "tr": "pookalam lal",
+    "hex": "#D0242E",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Durga Puja White Red",
+    "tr": "puja",
+    "hex": "#DBD3C6",
+    "family": "brown",
+    "cat": "ritual"
+  },
+  {
+    "en": "Ganga Aarti Night",
+    "tr": "ganga aarti",
+    "hex": "#232A4A",
+    "family": "blue",
+    "cat": "ritual"
+  },
+  {
+    "en": "Chhath Sun",
+    "tr": "chhath",
+    "hex": "#F58A2A",
+    "family": "orange",
+    "cat": "ritual"
+  },
+  {
+    "en": "Baisakhi Wheat",
+    "tr": "baisakhi",
+    "hex": "#E1B84A",
+    "family": "yellow",
+    "cat": "ritual"
+  },
+  {
+    "en": "Eid Crescent",
+    "tr": "eid",
+    "hex": "#E0DCC7",
+    "family": "neutral",
+    "cat": "ritual"
+  },
+  {
+    "en": "Holi Splash",
+    "tr": "holi",
+    "hex": "#E43A8A",
+    "family": "pink",
+    "cat": "ritual"
+  },
+  {
+    "en": "Raksha Thread",
+    "tr": "rakhi",
+    "hex": "#D8302E",
+    "family": "red",
+    "cat": "ritual"
+  },
+  {
+    "en": "Matka Terracotta",
+    "tr": "matka",
+    "hex": "#BB5730",
+    "family": "red",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Surahi",
+    "tr": "surahi",
+    "hex": "#C76C3B",
+    "family": "orange",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Kulhad Brown",
+    "tr": "kulhad bhura",
+    "hex": "#9C4E30",
+    "family": "red",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Terracotta Horse",
+    "tr": "bankura",
+    "hex": "#C2623A",
+    "family": "red",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Terracotta Tile",
+    "tr": "khaprail",
+    "hex": "#B84B2C",
+    "family": "red",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Mangalore Tile",
+    "tr": "mangalore",
+    "hex": "#C2512E",
+    "family": "red",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Clay Lamp",
+    "tr": "mitti diya",
+    "hex": "#BB6739",
+    "family": "red",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Pottery Slip",
+    "tr": "slip",
+    "hex": "#E1CBB0",
+    "family": "brown",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Longpi Black",
+    "tr": "longpi",
+    "hex": "#221F1C",
+    "family": "neutral",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Khurja Blue",
+    "tr": "khurja neela",
+    "hex": "#2A5EA8",
+    "family": "blue",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Khurja White",
+    "tr": "khurja safed",
+    "hex": "#DCDBD7",
+    "family": "neutral",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Jaipur Blue Pottery",
+    "tr": "jaipur neela",
+    "hex": "#2B63B0",
+    "family": "blue",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Chinese Clay Glaze",
+    "tr": "chini mitti",
+    "hex": "#E8EBE9",
+    "family": "neutral",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Celadon Glaze",
+    "tr": "celadon",
+    "hex": "#A9C3A8",
+    "family": "green",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Mosaic Tile",
+    "tr": "mosaic",
+    "hex": "#C7A05A",
+    "family": "yellow",
+    "cat": "ceramic"
+  },
+  {
+    "en": "Marble White",
+    "tr": "sangmarmar",
+    "hex": "#E6E6E4",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Marble Veined",
+    "tr": "makrana nas",
+    "hex": "#D8D6D0",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Red Sandstone",
+    "tr": "lal pathar",
+    "hex": "#B1472B",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Pink Sandstone",
+    "tr": "gulabi pathar",
+    "hex": "#D9937E",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Yellow Sandstone",
+    "tr": "peela pathar",
+    "hex": "#D9B16A",
+    "family": "yellow",
+    "cat": "material"
+  },
+  {
+    "en": "Granite Black",
+    "tr": "kala granite",
+    "hex": "#2F302F",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Granite Pink",
+    "tr": "gulabi granite",
+    "hex": "#C99A8A",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Slate",
+    "tr": "slate",
+    "hex": "#4A5058",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Soapstone",
+    "tr": "soapstone",
+    "hex": "#C4C7BC",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Basalt",
+    "tr": "basalt",
+    "hex": "#4D4B49",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Lime Wash Blue",
+    "tr": "chuna neela",
+    "hex": "#B7D4E0",
+    "family": "blue",
+    "cat": "material"
+  },
+  {
+    "en": "Haveli Ochre",
+    "tr": "haveli",
+    "hex": "#D69F3E",
+    "family": "yellow",
+    "cat": "material"
+  },
+  {
+    "en": "Haveli Blue",
+    "tr": "haveli neela",
+    "hex": "#4A86C0",
+    "family": "blue",
+    "cat": "material"
+  },
+  {
+    "en": "Cow Dung Wash",
+    "tr": "gobar lipai",
+    "hex": "#8F7E55",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Straw",
+    "tr": "bhusa",
+    "hex": "#DAC17A",
+    "family": "yellow",
+    "cat": "material"
+  },
+  {
+    "en": "Thatch",
+    "tr": "chappar",
+    "hex": "#B69B5C",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Jute Sack",
+    "tr": "bori",
+    "hex": "#B59A66",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Hemp Rope",
+    "tr": "rassi",
+    "hex": "#B7A271",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Coir",
+    "tr": "nariyal reshaa",
+    "hex": "#8A6B42",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Cane",
+    "tr": "bet",
+    "hex": "#C1A366",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Bamboo Mat",
+    "tr": "chatai",
+    "hex": "#CDB679",
+    "family": "yellow",
+    "cat": "material"
+  },
+  {
+    "en": "Rosewood Polish",
+    "tr": "shisham",
+    "hex": "#5A2A22",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Teak Polish",
+    "tr": "sagwan",
+    "hex": "#9B6A3A",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Sanganer Paper",
+    "tr": "sanganer",
+    "hex": "#FAF0D5",
+    "family": "yellow",
+    "cat": "material"
+  },
+  {
+    "en": "Palm Leaf Manuscript",
+    "tr": "taad patra",
+    "hex": "#C9B27A",
+    "family": "yellow",
+    "cat": "material"
+  },
+  {
+    "en": "Bhojpatra",
+    "tr": "bhojpatra",
+    "hex": "#C4A167",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Ink Black",
+    "tr": "syahi",
+    "hex": "#16171D",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Red Ink",
+    "tr": "laal syahi",
+    "hex": "#AF1F29",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Blue Ink",
+    "tr": "neeli syahi",
+    "hex": "#223E91",
+    "family": "blue",
+    "cat": "material"
+  },
+  {
+    "en": "Chalkboard",
+    "tr": "slate kala",
+    "hex": "#2D3A36",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Newsprint",
+    "tr": "akhbaar",
+    "hex": "#D0CDC5",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Brown Paper",
+    "tr": "bhura kaagaz",
+    "hex": "#BE9F72",
+    "family": "brown",
+    "cat": "material"
+  },
+  {
+    "en": "Matchbox",
+    "tr": "machis",
+    "hex": "#CC3B2F",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Rickshaw Yellow",
+    "tr": "rickshaw",
+    "hex": "#FECB1D",
+    "family": "yellow",
+    "cat": "material"
+  },
+  {
+    "en": "Taxi Black",
+    "tr": "taxi",
+    "hex": "#252427",
+    "family": "neutral",
+    "cat": "material"
+  },
+  {
+    "en": "Auto Green",
+    "tr": "auto",
+    "hex": "#2F8A3E",
+    "family": "green",
+    "cat": "material"
+  },
+  {
+    "en": "Truck Art Pink",
+    "tr": "truck art",
+    "hex": "#E7488C",
+    "family": "pink",
+    "cat": "material"
+  },
+  {
+    "en": "Truck Art Teal",
+    "tr": "truck art neela",
+    "hex": "#1FA19B",
+    "family": "blue",
+    "cat": "material"
+  },
+  {
+    "en": "Bus Red",
+    "tr": "bus lal",
+    "hex": "#C22A2A",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Local Train Blue",
+    "tr": "local train",
+    "hex": "#3167B8",
+    "family": "blue",
+    "cat": "material"
+  },
+  {
+    "en": "Postbox Red",
+    "tr": "dak peti",
+    "hex": "#BF272C",
+    "family": "red",
+    "cat": "material"
+  },
+  {
+    "en": "Kulfi Pistachio",
+    "tr": "kulfi hara",
+    "hex": "#B9D58A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Kulfi Malai",
+    "tr": "kulfi",
+    "hex": "#FFFDDE",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Falooda Pink",
+    "tr": "falooda",
+    "hex": "#FBAEC6",
+    "family": "pink",
+    "cat": "food"
+  },
+  {
+    "en": "Mango Lassi",
+    "tr": "aam lassi",
+    "hex": "#F4C45E",
+    "family": "yellow",
+    "cat": "food"
+  },
+  {
+    "en": "Sugarcane Juice",
+    "tr": "ganne ka ras",
+    "hex": "#C9D98A",
+    "family": "green",
+    "cat": "food"
+  },
+  {
+    "en": "Kadak Chai",
+    "tr": "kadak chai",
+    "hex": "#9A5E34",
+    "family": "brown",
+    "cat": "food"
+  },
+  {
+    "en": "Kesar Chai",
+    "tr": "kesar chai",
+    "hex": "#D9902A",
+    "family": "orange",
+    "cat": "food"
+  },
+  {
+    "en": "Butter Tea",
+    "tr": "po cha",
+    "hex": "#D9BD88",
+    "family": "yellow",
+    "cat": "food"
+  }
+]

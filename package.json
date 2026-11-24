@@ -1,0 +1,17 @@
+{
+  "name": "colors-of-india",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Traditional Indian colors with palette, scene preview, UI theme and terminal theme tools. Static site, no runtime dependencies.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/verify.mjs",
+    "check": "npm run build && npm run verify",
+    "serve": "node scripts/serve.mjs 8080"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
